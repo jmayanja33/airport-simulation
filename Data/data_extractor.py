@@ -107,7 +107,7 @@ class DataExtractor:
             "Wind": {
                 "Northeast": 0.18,
                 "Northwest": 0.37,
-                "Southest": 0.17,
+                "Southeast": 0.17,
                 "Southwest": 0.28
             }
         }

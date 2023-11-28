@@ -1,5 +1,5 @@
 """
-Class to simulate a month's worth of flights at Logan airport.
+Class to simulate a week's worth of flights at Logan airport.
 
 Goals:
     - The goal of this project is to gain a better understanding of how plane traffic builds up around the runways at
@@ -8,7 +8,7 @@ Goals:
 
 Assumptions:
     - Weather is constant and ideal
-    - Winds randomly change direction every 6 hours (could stay the same)
+    - Winds are constant for 24 hours, then can randomly change direction every the next day (could stay the same)
     - Taxi and Gate issues are not being considered. The focus of this project is on getting planes on and off of
     the ground efficiently.
     - All non-jet aircraft will take off and land only on non-jet specific runways if presented the opportunity
@@ -49,24 +49,13 @@ def find_wind_direction():
     return wind
 
 
-def generate_plane(time_of_day):
-    """Function to generate a departing/arriving aircraft"""
-    if time_of_day < 360:
-        return random.expovariate(float(os.getenv("LAMBDA_NIGHT")))
-    elif time_of_day < 720:
-        return random.expovariate(float(os.getenv("LAMBDA_MORNING")))
-    elif time_of_day < 1080:
-        return random.expovariate(float(os.getenv("LAMBDA_AFTERNOON")))
-    else:
-        return random.expovariate(float(os.getenv("LAMBDA_EVENING")))
-
-
 class Airport(object):
 
     def __init__(self, env):
         load_dotenv()
 
         self.env = env
+        random_seed = None
         self.wait_times = []
         self.circle_times = []
         self.wind_direction = find_wind_direction()
@@ -86,9 +75,11 @@ class Airport(object):
         # Initialize departure runways
         for runway in departure_runways.keys():
             if departure_runways[runway]["Non Jet"]:
-                runways_in_use[runway] = Runway(self.env, runway, departure=True, arrival=False, non_jet_departure=True)
+                runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
+                                                departure=True, arrival=False, non_jet_departure=True)
             else:
-                runways_in_use[runway] = Runway(self.env, runway, departure=True, arrival=False)
+                runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
+                                                departure=True, arrival=False)
 
         # Initialize arrival runways
         for runway in arrival_runways.keys():
@@ -99,14 +90,16 @@ class Airport(object):
                     runways_in_use[runway].arrival = True
                     runways_in_use[runway].non_jet_arrival = True
                 else:
-                    runways_in_use[runway] = Runway(self.env, runway, departure=False, arrival=True, non_jet_arrival=True)
+                    runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
+                                                    departure=False, arrival=True, non_jet_arrival=True)
             # All aircraft runways
             else:
                 # If runway has already been initialized
                 if runway in runways_in_use.keys():
                     runways_in_use[runway].arrival = True
                 else:
-                    runways_in_use[runway] = Runway(self.env, runway, departure=False, arrival=True)
+                    runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
+                                                    departure=False, arrival=True)
 
         return runways_in_use
 
@@ -117,6 +110,8 @@ class Airport(object):
     def reset_runways(self):
         """Function to reset runways"""
         self.runways = self.prepare_runways()
+        self.non_jet_departure_runways, self.all_departure_runways = self.find_non_jet_runways(departure=True)
+        self.non_jet_arrival_runways, self.all_arrival_runways = self.find_non_jet_runways(departure=False)
 
     def find_non_jet_runways(self, departure):
         """Function to find the non-jet runways"""
@@ -144,11 +139,16 @@ class Airport(object):
 
     def find_shortest_runway_line(self, runway_list):
         """Function to find the runway with the shortest line"""
-        shortest_line_length = 0
+        shortest_line_length = None
         shortest_line = None
 
         for runway in runway_list:
             runway_line_length = self.runways[runway].get_runway_line_length()
+            if shortest_line_length is None:
+                shortest_line_length = runway_line_length
+                shortest_line = runway
+                continue
+
             if runway_line_length <= shortest_line_length:
                 shortest_line_length = runway_line_length
                 shortest_line = runway
@@ -186,69 +186,36 @@ class Airport(object):
         # Takeoff
         arrive_at_runway_time = self.env.now
         runway = self.runways[self.select_runway(plane)]
-        self.env.process(runway.take_off(plane))
-
-        # Record stats
-        wait_time = self.env.now - arrive_at_runway_time
-        data = (self.env.now, plane.airline, plane.route, plane.flight_number, plane.aircraft_type, self.wind_direction,
-                runway.name, wait_time)
-        self.wait_times.append(data)
+        self.env.process(runway.take_off(plane, self.wind_direction))
 
     def land_at_airport(self, plane):
         """Function to simulate a landing plane"""
         # Land
         begin_approach_time = self.env.now
         runway = self.runways[self.select_runway(plane)]
-        self.env.process(runway.land(plane))
-
-        # Record stats
-        circle_time = self.env.now - begin_approach_time
-        data = (self.env.now, plane.airline, plane.route, plane.flight_number, plane.aircraft_type, self.wind_direction,
-                runway.name, circle_time)
-        self.circle_times.append(data)
-
-    def planes_arrive(self):
-        """Function which simulates the arrival of planes to the runway for take off or to the airspace for landing"""
-
-        # Loop which executes until no planes are left in line
-        time_of_day = self.env.now()
-
-        while True:
-            if time_of_day < 360:
-                yield self.env.timeout(float(os.getenv("LAMBDA_NIGHT")))
-            elif time_of_day < 720:
-                yield self.env.timeout(float(os.getenv("LAMBDA_MORNING")))
-            elif time_of_day < 1080:
-                yield self.env.timeout(float(os.getenv("LAMBDA_AFTERNOON")))
-            else:
-                yield self.env.timeout(float(os.getenv("LAMBDA_EVENING")))
-
-            plane = Plane(self.env.now)
-
-            if plane.departing:
-                self.takeoff_from_airport(plane)
-            else:
-                self.land_at_airport(plane)
+        self.env.process(runway.land(plane, self.wind_direction))
 
     def simulate(self):
         """Function to simulate landing and departing at the airport"""
 
-        #while self.env.now < 1440:
-        # Loop which executes until no planes are left in line
-        time_of_day = self.env.now
+        # change_wind = False
 
+        # Loop which executes until no planes are left in line
         while True:
 
-            # Change wind direction
-            if time_of_day in {360*60, 720*60, 1080*60}:
-                self.reset_wind()
-                self.reset_runways()
+            time_of_day = self.env.now
 
-            if time_of_day < 360*60:
+            # Change wind direction every 12 hours
+            # if not change_wind and time_of_day >= 12*60:
+            #     self.reset_wind()
+            #     self.reset_runways()
+            #     change_wind = True
+
+            if time_of_day < 6*60:
                 yield self.env.timeout(float(os.getenv("LAMBDA_NIGHT")))
-            elif time_of_day < 720*60:
+            elif time_of_day < 12*60:
                 yield self.env.timeout(float(os.getenv("LAMBDA_MORNING")))
-            elif time_of_day < 1080*60:
+            elif time_of_day < 18*60:
                 yield self.env.timeout(float(os.getenv("LAMBDA_AFTERNOON")))
             else:
                 yield self.env.timeout(float(os.getenv("LAMBDA_EVENING")))
@@ -259,26 +226,18 @@ class Airport(object):
                 self.takeoff_from_airport(plane)
             else:
                 self.land_at_airport(plane)
-
-            # next_plane_time = generate_plane(self.env.now)
-            # plane = Plane(self.env.now)
-
-            # yield self.env.timeout(next_plane_time)
-
-            # if plane.departing:
-            #     self.takeoff_from_airport(plane)
-            # else:
-            #     self.land_at_airport(plane)
 
     def save_simulation_data(self):
         """Function to save data when simulation is finished"""
 
         # Save departure data
+        print("Saving departure data to file")
         departing_df = pd.DataFrame(data=self.wait_times, columns=["Time", "Airline", "Destination", "Flight Number",
                                                                    "Aircraft Type", "Wind", "Runway", "Wait Time"])
         departing_df.to_csv("../Data/departure_results.csv", index=False)
 
         # Save arrival data
+        print("Saving arrival data to file")
         arrival_df = pd.DataFrame(data=self.circle_times, columns=["Time", "Airline", "Destination", "Flight Number",
                                                                    "Aircraft Type", "Wind", "Runway", "Circle Time"])
         arrival_df.to_csv("../Data/arrival_results.csv", index=False)

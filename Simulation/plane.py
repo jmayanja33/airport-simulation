@@ -82,13 +82,13 @@ def choose_aircraft(departing, airline_code, route):
 
 def determine_departing(time_of_day):
     """Function to choose if an aircraft is departing or arriving"""
-    if time_of_day < 360*60:
+    if time_of_day < 6*60:
         return np.random.choice([True, False],
                                 p=[float(os.getenv("DEPARTURE_PROB_NIGHT")), float(os.getenv("ARRIVAL_PROB_NIGHT"))])
-    elif time_of_day < 720*60:
+    elif time_of_day < 12*60:
         return np.random.choice([True, False],
                                 p=[float(os.getenv("DEPARTURE_PROB_MORNING")), float(os.getenv("ARRIVAL_PROB_MORNING"))])
-    elif time_of_day < 1080*60:
+    elif time_of_day < 18*60:
         return np.random.choice([True, False],
                                 p=[float(os.getenv("DEPARTURE_PROB_AFTERNOON")), float(os.getenv("ARRIVAL_PROB_AFTERNOON"))])
     else:
