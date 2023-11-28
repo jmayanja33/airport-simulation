@@ -1,3 +1,6 @@
 venv
 scratch.py
 .idea
+.env
+arrival_data.csv
+departure_data.csv
