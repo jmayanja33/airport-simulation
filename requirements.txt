@@ -2,3 +2,4 @@ pandas
 numpy
 simpy
 python-dotenv
+matplotlib

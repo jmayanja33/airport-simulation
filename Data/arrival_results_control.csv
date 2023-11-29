@@ -1,0 +1,1456 @@
+Time,Airline,Destination,Flight Number,Aircraft Type,Wind,Runway,Circle Time
+0.02,JetBlue Airways,"Los Angeles International Airport; Los Angeles, United States",B67626,320,Southeast,9,0.76
+0.09,British Airways,"London Heathrow Airport; London, United Kingdom",BA4934,777,Southeast,9,0.29
+0.16,Delta Air Lines,"London Heathrow Airport; London, United Kingdom",DL4325,764,Southeast,9,0.15
+0.18,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN3659,73W,Southeast,9,0.74
+0.2,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK5516,319,Southeast,9,0.27
+0.22,Delta Air Lines,"L.F. Wade International International Airport; Bermuda, Bermuda",DL5965,738,Southeast,9,0.73
+0.24,JetBlue Airways,"San Francisco International Airport; San Francisco, United States",B65079,320,Southeast,9,0.7
+0.31,JetBlue Airways,"Louis Armstrong New Orleans International Airport; New Orleans, United States",B61648,E90,Southeast,9,0.39
+0.42,United Airlines,"Chicago O'Hare International Airport; Chicago, United States",UA9868,73G,Southeast,9,0.05
+0.44,Southwest Airlines,"Denver International Airport; Denver, United States",WN9551,73W,Southeast,9,0.13
+0.47,JetBlue Airways,"Los Angeles International Airport; Los Angeles, United States",B63999,320,Southeast,9,0.27
+0.56,American Airlines,"London Heathrow Airport; London, United Kingdom",AA214,777,Southeast,9,0.18
+0.6,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA327,E90,Southeast,9,1.72
+0.67,American Airlines,"John F Kennedy International Airport; New York, United States",AA8447,738,Southeast,9,0.45
+0.69,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL3842,E75,Southeast,9,0.05
+0.73,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B65869,320,Southeast,9,0.69
+0.82,American Airlines,"La Guardia Airport; New York, United States",AA8710,E90,Southeast,9,0.46
+0.84,United Airlines,"Frankfurt am Main Airport; Frankfurt, Germany",UA5048,744,Southeast,9,0.01
+0.89,JetBlue Airways,"Princess Juliana International Airport; Philipsburg, Netherlands Antilles",B64135,320,Southeast,9,0.16
+0.93,Delta Air Lines,"L.F. Wade International International Airport; Bermuda, Bermuda",DL1633,738,Southeast,9,1.33
+0.96,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL4846,738,Southeast,9,0.39
+0.98,Delta Air Lines,"Cancún International Airport; Cancun, Mexico",DL9951,757,Southeast,9,0.66
+1.04,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA5370,CRJ,Southeast,9,0.76
+1.07,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF6091,M90,Southeast,9,1.44
+1.13,American Airlines,"John F Kennedy International Airport; New York, United States",AA1311,738,Southeast,9,0.11
+1.16,Air Canada,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",AC8048,DH3,Southeast,9,0.49
+1.2,Iberia Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",IB1408,333,Southeast,9,0.13
+1.24,Cape Air,"Knox County Regional Airport; Rockland, United States",9K2437,CNA,Southeast,9,0.17
+1.29,Delta Air Lines,"Cancún International Airport; Cancun, Mexico",DL6729,757,Southeast,9,0.39
+1.31,Finnair,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AY3437,333,Southeast,9,0.05
+1.33,Finnair,"London Heathrow Airport; London, United Kingdom",AY1390,777,Southeast,9,0.34
+1.4,JetBlue Airways,"Orlando International Airport; Orlando, United States",B62366,320,Southeast,9,0.12
+1.47,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B68640,E90,Southeast,9,0.46
+1.49,Alitalia,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AZ9810,M90,Southeast,9,0.18
+1.67,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA6438,757,Southeast,9,0.34
+1.71,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA6473,738,Southeast,9,0.15
+1.76,Spirit Airlines,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",NK9894,319,Southeast,9,1.04
+1.82,Cape Air,"Augusta State Airport; Augusta, United States",9K7779,CNA,Southeast,9,1.99
+1.89,Copa Airlines,"Tocumen International Airport; Panama City, Panama",CM6505,73G,Southeast,9,0.01
+1.93,American Airlines,"Cancún International Airport; Cancun, Mexico",AA4728,319,Southeast,9,0.6
+2.04,JetBlue Airways,"William P Hobby Airport; Houston, United States",B66104,E90,Southeast,9,0.14
+2.09,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA2675,DH8,Southeast,9,0.04
+2.13,American Airlines,"Cancún International Airport; Cancun, Mexico",AA1751,319,Southeast,9,1.44
+2.16,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA9028,E90,Southeast,9,0.69
+2.18,Cape Air,"Provincetown Municipal Airport; Provincetown, United States",9K7705,CNA,Southeast,9,0.13
+2.29,British Airways,"London Heathrow Airport; London, United Kingdom",BA6220,333,Southeast,9,1.63
+2.31,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS115,738,Southeast,9,0.37
+2.33,Emirates,"Dubai International Airport; Dubai, United Arab Emirates",EK5817,77L,Southeast,9,1.16
+2.35,JetBlue Airways,"Phoenix Sky Harbor International Airport; Phoenix, United States",B62526,320,Southeast,9,0.18
+2.38,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA8336,738,Southeast,9,0.04
+2.4,JetBlue Airways,"Raleigh Durham International Airport; Raleigh-durham, United States",B66544,E90,Southeast,9,0.24
+2.42,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN8405,717,Southeast,9,0.49
+2.44,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA6293,E90,Southeast,9,0.81
+2.49,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA6915,753,Southeast,9,0.2
+2.51,American Airlines,"La Guardia Airport; New York, United States",AA6236,319,Southeast,9,0.08
+2.53,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN1702,717,Southeast,9,0.16
+2.6,Southwest Airlines,"Kansas City International Airport; Kansas City, United States",WN5797,733,Southeast,9,0.65
+2.62,Alaska Airlines,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",AS8436,SF3,Southeast,9,0.18
+2.67,Finnair,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AY1898,333,Southeast,9,0.16
+2.69,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA5308,DH8,Southeast,9,0.32
+2.78,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA385,CRJ,Southeast,9,0.01
+2.8,Alaska Airlines,"Seattle Tacoma International Airport; Seattle, United States",AS8969,73H,Southeast,9,0.11
+2.84,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA1649,DH3,Southeast,9,0.16
+2.89,American Airlines,"San Diego International Airport; San Diego, United States",AA5447,737,Southeast,9,0.26
+2.95,United Airlines,"Cleveland Hopkins International Airport; Cleveland, United States",UA5357,319,Southeast,9,0.76
+2.98,Spirit Airlines,"Myrtle Beach International Airport; Myrtle Beach, United States",NK454,319,Southeast,9,0.73
+3.0,JetBlue Airways,"Philadelphia International Airport; Philadelphia, United States",B67782,E90,Southeast,9,0.1
+3.09,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN6573,733,Southeast,9,0.59
+3.11,JetBlue Airways,"John F Kennedy International Airport; New York, United States",B65802,320,Southeast,9,0.33
+3.13,JetBlue Airways,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",B65335,E90,Southeast,9,0.49
+3.22,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA4924,738,Southeast,9,0.81
+3.24,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA340,320,Southeast,9,0.28
+3.31,American Airlines,"Portland International Airport; Portland, United States",AA9248,737,Southeast,9,0.4
+3.33,TACV,"Praia International Airport; Praia, Santiago Island, Cape Verde",VR2484,752,Southeast,9,0.57
+3.38,Emirates,"Dubai International Airport; Dubai, United Arab Emirates",EK3227,77L,Southeast,9,1.59
+3.42,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI1959,75W,Southeast,9,0.31
+3.44,Alaska Airlines,"Portland International Airport; Portland, United States",AS275,73H,Southeast,9,0.3
+3.47,United Airlines,"Zürich Airport; Zurich, Switzerland",UA934,333,Southeast,9,0.03
+3.55,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL5507,330,Southeast,9,0.15
+3.58,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B68624,E90,Southeast,9,0.07
+3.6,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA5306,E90,Southeast,9,0.04
+3.71,JetBlue Airways,"Southwest Florida International Airport; Fort Myers, United States",B6734,320,Southeast,9,0.21
+3.8,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA4292,320,Southeast,9,0.73
+3.82,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN717,717,Southeast,9,0.26
+3.93,JetBlue Airways,"Detroit Metropolitan Wayne County Airport; Detroit, United States",B63381,E90,Southeast,9,0.45
+3.95,AeroMéxico,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AM8697,319,Southeast,9,0.23
+3.98,Peninsula Airways,"Long Island Mac Arthur Airport; Islip, United States",KS9814,SF3,Southeast,9,0.03
+4.0,United Airlines,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",UA1794,DH3,Southeast,9,0.45
+4.09,JetBlue Airways,"Punta Cana International Airport; Punta Cana, Dominican Republic",B69403,320,Southeast,9,0.75
+4.11,Porter Airlines,"Billy Bishop Toronto City Centre Airport; Toronto, Canada",PD7184,DH4,Southeast,9,0.89
+4.13,Delta Air Lines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",DL1291,319,Southeast,9,0.56
+4.15,American Airlines,"La Guardia Airport; New York, United States",AA9343,E90,Southeast,9,0.72
+4.18,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA4041,CRJ,Southeast,9,0.79
+4.22,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA2810,DH1,Southeast,9,0.42
+4.24,American Airlines,"San Diego International Airport; San Diego, United States",AA7970,737,Southeast,9,0.06
+4.27,United Airlines,"Chicago O'Hare International Airport; Chicago, United States",UA5443,73G,Southeast,9,1.17
+4.31,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B65679,E90,Southeast,9,0.09
+4.33,Southwest Airlines,"St Louis Lambert International Airport; St. Louis, United States",WN9922,73C,Southeast,9,0.26
+4.35,United Airlines,"San Francisco International Airport; San Francisco, United States",UA465,739,Southeast,9,0.21
+4.38,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH63,333,Southeast,9,0.04
+4.42,JetBlue Airways,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",B67414,320,Southeast,9,0.69
+4.49,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA9618,738,Southeast,9,0.05
+4.51,JetBlue Airways,"Richmond International Airport; Richmond, United States",B61751,E90,Southeast,9,0.11
+4.53,Delta Air Lines,"Los Angeles International Airport; Los Angeles, United States",DL3083,73H,Southeast,9,1.3
+4.55,Virgin Atlantic Airways,"London Heathrow Airport; London, United Kingdom",VS1817,333,Southeast,9,0.2
+4.58,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA9266,319,Southeast,9,0.43
+4.6,Southwest Airlines,"William P Hobby Airport; Houston, United States",WN2904,73W,Southeast,9,0.32
+4.62,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B63607,320,Southeast,9,0.13
+4.73,Cape Air,"Martha's Vineyard Airport; Vineyard Haven MA, United States",9K7185,CNA,Southeast,9,0.78
+4.8,Delta Air Lines,"Lynden Pindling International Airport; Nassau, Bahamas",DL6106,E75,Southeast,9,0.5
+4.82,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B62626,E90,Southeast,9,0.29
+4.84,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN7235,73W,Southeast,9,0.27
+4.87,American Airlines,"San Diego International Airport; San Diego, United States",AA7541,737,Southeast,9,0.55
+4.89,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL2234,752,Southeast,9,0.23
+4.91,Virgin Atlantic Airways,"London Heathrow Airport; London, United Kingdom",VS1154,333,Southeast,9,0.5
+4.93,American Airlines,"John F Kennedy International Airport; New York, United States",AA9443,738,Southeast,9,0.28
+4.95,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK2673,319,Southeast,9,0.35
+5.02,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC3499,DH1,Southeast,9,0.56
+5.07,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B69364,E90,Southeast,9,0.37
+5.15,Delta Air Lines,"Charles de Gaulle International Airport; Paris, France",DL2870,752,Southeast,9,0.26
+5.18,JetBlue Airways,"Dubai International Airport; Dubai, United Arab Emirates",B63946,77L,Southeast,9,0.1
+5.2,Delta Air Lines,"Minneapolis-St Paul International/Wold-Chamberlain Airport; Minneapolis, United States",DL4349,73H,Southeast,9,0.41
+5.24,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B64534,320,Southeast,9,0.16
+5.31,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS6288,SF3,Southeast,9,0.55
+5.35,TAP Portugal,"Humberto Delgado Airport (Lisbon Portela Airport); Lisbon, Portugal",TP2979,313,Southeast,9,0.51
+5.4,United Airlines,"Munich Airport; Munich, Germany",UA8218,333,Southeast,9,0.07
+5.42,JetBlue Airways,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",B68651,E90,Southeast,9,0.54
+5.44,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX9442,333,Southeast,9,0.04
+5.51,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B66057,320,Southeast,9,0.85
+5.64,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA4107,CRJ,Southeast,9,0.06
+5.69,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B62176,320,Southeast,9,0.9
+5.75,JetBlue Airways,"Austin Bergstrom International Airport; Austin, United States",B63055,E90,Southeast,9,0.46
+5.8,Delta Air Lines,"John Glenn Columbus International Airport; Columbus, United States",DL6221,ERJ,Southeast,9,0.45
+5.87,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN8057,73W,Southeast,9,0.29
+5.91,Delta Air Lines,"L.F. Wade International International Airport; Bermuda, Bermuda",DL8982,738,Southeast,9,0.23
+5.95,Alitalia,"Charles de Gaulle International Airport; Paris, France",AZ2160,744,Southeast,9,0.27
+5.98,JetBlue Airways,"Denver International Airport; Denver, United States",B67540,320,Southeast,9,0.41
+6.0,Delta Air Lines,"Cancún International Airport; Cancun, Mexico",DL8235,757,Southeast,9,0.14
+6.02,JetBlue Airways,"Las Américas International Airport; Santo Domingo, Dominican Republic",B61630,320,Southeast,9,1.33
+6.13,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL2244,330,Southeast,9,0.65
+6.66,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA6313,738,Southeast,9,0.14
+6.77,Delta Air Lines,"Los Angeles International Airport; Los Angeles, United States",DL9726,73H,Southeast,9,0.08
+6.99,Southwest Airlines,"William P Hobby Airport; Houston, United States",WN7419,73W,Southeast,9,1.16
+7.31,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA2785,DH1,Southeast,9,0.17
+7.41,TAP Portugal,"João Paulo II Airport; Ponta Delgada, Portugal",TP2814,313,Southeast,9,0.4
+7.52,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA7572,CRJ,Southeast,9,2.48
+7.63,Cape Air,"Augusta State Airport; Augusta, United States",9K9363,CNA,Southeast,9,0.13
+7.84,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN6151,717,Southeast,9,0.37
+8.38,Virgin Atlantic Airways,"London Heathrow Airport; London, United Kingdom",VS495,764,Southeast,9,2.03
+9.02,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN1218,73W,Southeast,9,0.16
+9.24,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B67647,E90,Southeast,9,0.04
+9.34,Alaska Airlines,"Long Island Mac Arthur Airport; Islip, United States",AS5778,SF3,Southeast,9,0.22
+9.77,Alaska Airlines,"San Francisco International Airport; San Francisco, United States",AS2975,320,Southeast,9,0.31
+10.1,JetBlue Airways,"Pittsburgh International Airport; Pittsburgh, United States",B68674,E90,Southeast,9,0.13
+10.2,United Airlines,"Dublin Airport; Dublin, Ireland",UA7987,330,Southeast,9,0.49
+10.31,American Airlines,"London Heathrow Airport; London, United Kingdom",AA4630,777,Southeast,9,0.85
+10.63,JetBlue Airways,"San Diego International Airport; San Diego, United States",B62204,320,Southeast,9,0.45
+10.74,Delta Air Lines,"La Guardia Airport; New York, United States",DL5066,E75,Southeast,9,0.13
+10.85,Virgin Atlantic Airways,"London Heathrow Airport; London, United Kingdom",VS7740,333,Southeast,9,0.64
+11.06,Cape Air,"Rutland - Southern Vermont Regional Airport; Rutland, United States",9K4647,CNA,Southeast,9,0.59
+11.27,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA9832,DH1,Southeast,9,0.55
+11.38,American Airlines,"Richmond International Airport; Richmond, United States",AA486,CRJ,Southeast,9,0.38
+11.81,Iberia Airlines,"London Heathrow Airport; London, United Kingdom",IB8434,744,Southeast,9,0.92
+11.92,United Airlines,"Munich Airport; Munich, Germany",UA9097,333,Southeast,9,0.35
+12.34,JetBlue Airways,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",B69618,E90,Southeast,9,0.14
+12.65,TAP Portugal,"Humberto Delgado Airport (Lisbon Portela Airport); Lisbon, Portugal",TP388,313,Southeast,9,0.09
+12.96,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL8207,330,Southeast,9,1.07
+13.27,JetBlue Airways,"Tampa International Airport; Tampa, United States",B6617,320,Southeast,9,1.36
+13.59,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA6560,320,Southeast,9,0.35
+13.9,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA6236,E75,Southeast,9,0.41
+14.05,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA980,320,Southeast,9,0.21
+14.52,Iberia Airlines,"London Heathrow Airport; London, United Kingdom",IB3430,744,Southeast,9,1.27
+14.68,United Airlines,"Denver International Airport; Denver, United States",UA392,320,Southeast,9,1.84
+14.84,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA5256,319,Southeast,9,0.08
+14.99,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL8701,E75,Southeast,9,0.32
+15.15,Virgin Atlantic Airways,"London Heathrow Airport; London, United Kingdom",VS1436,333,Southeast,9,0.15
+15.93,United Airlines,"Munich Airport; Munich, Germany",UA9082,333,Southeast,9,0.87
+16.08,Iberia Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",IB3752,333,Southeast,9,0.96
+16.55,Spirit Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",NK3850,319,Southeast,9,0.22
+16.71,Cape Air,"Lebanon Municipal Airport; Lebanon, United States",9K1728,CNA,Southeast,9,0.24
+16.86,British Airways,"London Heathrow Airport; London, United Kingdom",BA6198,333,Southeast,9,0.3
+17.65,JetBlue Airways,"Louis Armstrong New Orleans International Airport; New Orleans, United States",B657,E90,Southeast,9,0.07
+18.11,United Airlines,"Newark Liberty International Airport; Newark, United States",UA5607,319,Southeast,9,0.16
+18.34,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ433,332,Southeast,9,0.33
+19.04,Air Canada,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",AC2195,CRJ,Southeast,9,0.32
+19.15,Southwest Airlines,"Kansas City International Airport; Kansas City, United States",WN3390,733,Southeast,9,0.22
+19.27,TAP Portugal,"João Paulo II Airport; Ponta Delgada, Portugal",TP3165,313,Southeast,9,1.19
+19.62,Delta Air Lines,"London Heathrow Airport; London, United Kingdom",DL173,764,Southeast,9,0.0
+19.73,American Airlines,"London Heathrow Airport; London, United Kingdom",AA5237,777,Southeast,9,0.38
+19.85,Iberia Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",IB2812,333,Southeast,9,0.4
+19.96,Cape Air,"Martha's Vineyard Airport; Vineyard Haven MA, United States",9K1309,CNA,Southeast,9,0.16
+20.31,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL7600,73H,Southeast,9,0.03
+20.42,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL9258,767,Southeast,9,0.52
+20.54,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA1494,DH1,Southeast,9,0.16
+20.66,Alaska Airlines,"San Diego International Airport; San Diego, United States",AS3489,73H,Southeast,9,0.63
+20.89,Air France,"London Heathrow Airport; London, United Kingdom",AF4766,764,Southeast,9,1.26
+21.12,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B61005,E90,Southeast,9,0.33
+21.58,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA5757,DH1,Southeast,9,1.67
+21.93,Cape Air,"Knox County Regional Airport; Rockland, United States",9K5372,CNA,Southeast,9,0.05
+22.04,United Airlines,"Frankfurt am Main Airport; Frankfurt, Germany",UA5335,346,Southeast,9,0.34
+22.16,JetBlue Airways,"Pittsburgh International Airport; Pittsburgh, United States",B68739,E90,Southeast,9,0.11
+22.27,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF1376,M90,Southeast,9,0.79
+22.39,Delta Air Lines,"Cincinnati Northern Kentucky International Airport; Cincinnati, United States",DL8689,320,Southeast,9,0.32
+22.5,Cape Air,"Provincetown Municipal Airport; Provincetown, United States",9K2181,CNA,Southeast,9,1.5
+22.62,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS6816,738,Southeast,9,0.09
+22.74,American Airlines,"Richmond International Airport; Richmond, United States",AA1503,CRJ,Southeast,9,0.03
+22.85,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA1151,320,Southeast,9,0.6
+22.97,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA5294,738,Southeast,9,0.41
+23.08,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B69161,320,Southeast,9,0.06
+23.31,Spirit Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",NK5251,319,Southeast,9,0.64
+23.78,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA9089,752,Southeast,9,0.33
+23.89,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI1064,757,Southeast,9,1.29
+0.07,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF4022,757,Southwest,9,0.06
+0.09,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B63141,320,Southwest,9,0.13
+0.22,KLM Royal Dutch Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",KL9366,319,Southwest,9,0.95
+0.24,Spirit Airlines,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",NK6019,319,Southwest,9,0.83
+0.29,American Airlines,"La Guardia Airport; New York, United States",AA1005,319,Southwest,9,0.53
+0.36,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B62656,320,Southwest,9,0.1
+0.4,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA4451,DH8,Southwest,9,1.0
+0.42,United Airlines,"Denver International Airport; Denver, United States",UA3948,752,Southwest,9,0.39
+0.44,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL45,CR7,Southwest,9,1.59
+0.49,Alitalia,"Charles de Gaulle International Airport; Paris, France",AZ2024,744,Southwest,9,0.76
+0.51,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN7690,73C,Southwest,9,0.15
+0.56,American Airlines,"San Diego International Airport; San Diego, United States",AA8089,737,Southwest,9,1.12
+0.6,Delta Air Lines,"Jacksonville International Airport; Jacksonville, United States",DL2166,CR9,Southwest,9,0.27
+0.64,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN1129,73W,Southwest,9,0.05
+0.73,Delta Air Lines,"Salt Lake City International Airport; Salt Lake City, United States",DL1749,320,Southwest,9,0.58
+0.76,JetBlue Airways,"Luis Munoz Marin International Airport; San Juan, Puerto Rico",B65571,320,Southwest,9,0.11
+0.8,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN8865,73W,Southwest,9,0.23
+0.82,Japan Airlines Domestic,"Narita International Airport; Tokyo, Japan",JL4290,788,Southwest,9,0.22
+0.87,TACV,"Praia International Airport; Praia, Santiago Island, Cape Verde",VR2075,752,Southwest,9,0.62
+0.96,Delta Air Lines,"Los Angeles International Airport; Los Angeles, United States",DL6773,73H,Southwest,9,1.24
+0.98,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B63457,320,Southwest,9,0.16
+1.0,Porter Airlines,"Billy Bishop Toronto City Centre Airport; Toronto, Canada",PD9734,DH4,Southwest,9,1.08
+1.04,JetBlue Airways,"Dubai International Airport; Dubai, United Arab Emirates",B61573,77L,Southwest,9,1.09
+1.09,JetBlue Airways,"San Diego International Airport; San Diego, United States",B6869,320,Southwest,9,0.63
+1.11,JetBlue Airways,"San Francisco International Airport; San Francisco, United States",B66007,320,Southwest,9,0.06
+1.13,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN7296,73W,Southwest,9,0.6
+1.24,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B64734,320,Southwest,9,2.02
+1.29,AeroMéxico,"Cancún International Airport; Cancun, Mexico",AM5044,757,Southwest,9,0.3
+1.42,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA5845,320,Southwest,9,0.12
+1.44,Alaska Airlines,"Long Island Mac Arthur Airport; Islip, United States",AS7326,SF3,Southwest,9,0.3
+1.47,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA1163,738,Southwest,9,1.76
+1.51,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ100,330,Southwest,9,0.41
+1.58,JetBlue Airways,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",B61769,E90,Southwest,9,0.51
+1.6,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN8912,717,Southwest,9,0.22
+1.62,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA5968,CRJ,Southwest,9,0.07
+1.69,Delta Air Lines,"Charleston Air Force Base-International Airport; Charleston, United States",DL9751,CR9,Southwest,9,0.05
+1.71,JetBlue Airways,"Seattle Tacoma International Airport; Seattle, United States",B63057,320,Southwest,9,0.29
+1.73,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA1688,DH1,Southwest,9,0.06
+1.76,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA5152,319,Southwest,9,0.34
+1.78,Sun Country Airlines,"Minneapolis-St Paul International/Wold-Chamberlain Airport; Minneapolis, United States",SY7039,73G,Southwest,9,0.14
+1.82,Cape Air,"Rutland - Southern Vermont Regional Airport; Rutland, United States",9K1196,CNA,Southwest,9,0.07
+1.84,Virgin Atlantic Airways,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",VS1654,M88,Southwest,9,0.93
+1.87,Southwest Airlines,"Kansas City International Airport; Kansas City, United States",WN325,73W,Southwest,9,0.16
+1.91,United Airlines,"Washington Dulles International Airport; Washington, United States",UA7368,320,Southwest,9,0.33
+1.93,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA7208,321,Southwest,9,0.11
+1.98,Air Canada,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",AC3689,CRJ,Southwest,9,0.59
+2.0,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA5529,320,Southwest,9,0.06
+2.02,American Airlines,"Richmond International Airport; Richmond, United States",AA4771,CRJ,Southwest,9,0.07
+2.04,American Airlines,"La Guardia Airport; New York, United States",AA5740,319,Southwest,9,0.11
+2.07,JetBlue Airways,"Las Américas International Airport; Santo Domingo, Dominican Republic",B65454,320,Southwest,9,1.25
+2.09,Cape Air,"Albany International Airport; Albany, United States",9K2138,CNA,Southwest,9,0.5
+2.11,American Airlines,"La Guardia Airport; New York, United States",AA8762,E90,Southwest,9,0.3
+2.13,JetBlue Airways,"Luis Munoz Marin International Airport; San Juan, Puerto Rico",B69393,320,Southwest,9,0.11
+2.16,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B66806,320,Southwest,9,0.62
+2.27,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K8404,CNA,Southwest,9,0.06
+2.29,Alaska Airlines,"Portland International Airport; Portland, United States",AS979,73H,Southwest,9,0.41
+2.31,United Airlines,"Chicago O'Hare International Airport; Chicago, United States",UA4028,739,Southwest,9,1.34
+2.35,Cape Air,"Augusta State Airport; Augusta, United States",9K1201,CNA,Southwest,9,0.41
+2.44,United Airlines,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",UA7935,DH3,Southwest,9,0.35
+2.47,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B63570,320,Southwest,9,0.28
+2.49,JetBlue Airways,"Richmond International Airport; Richmond, United States",B6429,E90,Southwest,9,0.45
+2.51,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ1297,332,Southwest,9,0.06
+2.55,JetBlue Airways,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",B64286,E90,Southwest,9,0.07
+2.58,United Airlines,"Cleveland Hopkins International Airport; Cleveland, United States",UA8645,319,Southwest,9,0.49
+2.6,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA781,DH1,Southwest,9,0.25
+2.62,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI6604,75W,Southwest,9,0.43
+2.69,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN5709,73W,Southwest,9,1.1
+2.71,Alaska Airlines,"Portland International Airport; Portland, United States",AS1469,73H,Southwest,9,1.65
+2.8,Alitalia,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AZ861,M90,Southwest,9,0.12
+2.84,Alaska Airlines,"San Francisco International Airport; San Francisco, United States",AS3049,320,Southwest,9,0.55
+2.87,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA2117,320,Southwest,9,0.01
+2.89,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA6015,319,Southwest,9,0.32
+2.91,British Airways,"London Heathrow Airport; London, United Kingdom",BA3018,744,Southwest,9,0.09
+3.0,Delta Air Lines,"Cincinnati Northern Kentucky International Airport; Cincinnati, United States",DL474,320,Southwest,9,0.56
+3.02,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL6069,330,Southwest,9,1.39
+3.04,Delta Air Lines,"Orlando International Airport; Orlando, United States",DL4240,M88,Southwest,9,0.38
+3.11,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL5470,73H,Southwest,9,0.07
+3.13,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN4217,73W,Southwest,9,0.51
+3.18,Spirit Airlines,"Atlantic City International Airport; Atlantic City, United States",NK9392,319,Southwest,9,0.56
+3.2,Spirit Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",NK9994,319,Southwest,9,0.32
+3.35,JetBlue Airways,"Austin Bergstrom International Airport; Austin, United States",B65594,E90,Southwest,9,1.38
+3.38,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS7397,320,Southwest,9,1.15
+3.47,Finnair,"London Heathrow Airport; London, United Kingdom",AY4833,777,Southwest,9,0.3
+3.53,JetBlue Airways,"Charlotte Douglas International Airport; Charlotte, United States",B66355,E90,Southwest,14,0.16
+3.55,United Airlines,"Frankfurt am Main Airport; Frankfurt, Germany",UA733,346,Southwest,14,0.2
+3.49,JetBlue Airways,"Jacksonville International Airport; Jacksonville, United States",B69449,E90,Southwest,9,4.41
+3.51,Spirit Airlines,"Atlantic City International Airport; Atlantic City, United States",NK1555,319,Southwest,9,3.18
+3.6,Delta Air Lines,"Orlando International Airport; Orlando, United States",DL3440,320,Southwest,9,0.32
+3.62,United Airlines,"Frankfurt am Main Airport; Frankfurt, Germany",UA446,744,Southwest,9,0.56
+3.69,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH8361,333,Southwest,9,0.51
+3.71,Air Canada,"Halifax / Stanfield International Airport; Halifax, Canada",AC1022,CRJ,Southwest,9,0.61
+3.73,KLM Royal Dutch Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",KL5633,757,Southwest,9,0.07
+3.8,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA1295,319,Southwest,9,0.63
+3.82,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN1284,73W,Southwest,9,0.09
+3.84,American Airlines,"La Guardia Airport; New York, United States",AA7117,E90,Southwest,9,0.49
+3.91,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA5429,CRJ,Southwest,9,0.36
+3.93,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN7419,73C,Southwest,9,0.74
+4.04,American Airlines,"Seattle Tacoma International Airport; Seattle, United States",AA7304,737,Southwest,9,0.12
+4.09,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B64711,320,Southwest,9,0.46
+4.13,United Airlines,"Dublin Airport; Dublin, Ireland",UA4326,332,Southwest,9,0.81
+4.15,Alitalia,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AZ3357,319,Southwest,9,0.75
+4.27,American Airlines,"Richmond International Airport; Richmond, United States",AA9631,CRJ,Southwest,9,0.25
+4.29,Peninsula Airways,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",KS2813,SF3,Southwest,9,0.89
+4.31,Alaska Airlines,"Long Island Mac Arthur Airport; Islip, United States",AS4745,SF3,Southwest,9,0.08
+4.38,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA4953,CRJ,Southwest,9,0.53
+4.44,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN1685,73C,Southwest,9,1.39
+4.47,JetBlue Airways,"Newark Liberty International Airport; Newark, United States",B67989,E90,Southwest,9,0.5
+4.53,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA4452,DH3,Southwest,9,0.03
+4.6,American Airlines,"London Heathrow Airport; London, United Kingdom",AA1663,744,Southwest,9,0.76
+4.62,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA4979,738,Southwest,9,0.08
+4.64,British Airways,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",BA9152,333,Southwest,9,0.23
+4.67,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL3408,767,Southwest,9,1.69
+4.71,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH6156,333,Southwest,9,0.08
+4.75,Delta Air Lines,"La Guardia Airport; New York, United States",DL8154,E75,Southwest,9,0.39
+4.78,American Airlines,"Richmond International Airport; Richmond, United States",AA248,CRJ,Southwest,9,1.42
+4.8,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA7082,320,Southwest,9,0.44
+4.82,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF9341,M90,Southwest,9,0.29
+4.84,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI497,75W,Southwest,9,1.15
+4.87,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA5998,319,Southwest,9,0.37
+4.89,JetBlue Airways,"Portland International Airport; Portland, United States",B66326,320,Southwest,9,0.78
+4.91,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN4274,73W,Southwest,9,0.23
+4.93,United Airlines,"San Francisco International Airport; San Francisco, United States",UA5668,320,Southwest,9,0.5
+4.95,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL5006,320,Southwest,9,0.51
+4.98,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA8154,738,Southwest,9,1.21
+5.0,Southwest Airlines,"Kansas City International Airport; Kansas City, United States",WN6262,733,Southwest,9,0.41
+5.02,Lufthansa Cargo,"Frankfurt am Main Airport; Frankfurt, Germany",LH5831,744,Southwest,9,0.2
+5.07,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B65267,320,Southwest,9,1.43
+5.09,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI3056,75W,Southwest,9,0.11
+5.18,Alitalia,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AZ2144,M90,Southwest,9,0.01
+5.27,JetBlue Airways,"Philadelphia International Airport; Philadelphia, United States",B65697,E90,Southwest,9,0.59
+5.29,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN9087,73W,Southwest,9,0.4
+5.33,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN9824,717,Southwest,9,0.06
+5.4,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA9914,319,Southwest,9,0.9
+5.42,Iberia Airlines,"London Heathrow Airport; London, United Kingdom",IB5988,777,Southwest,9,0.26
+5.47,JetBlue Airways,"William P Hobby Airport; Houston, United States",B62149,E90,Southwest,9,0.14
+5.49,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA6293,CRJ,Southwest,9,0.05
+5.58,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN4157,73W,Southwest,9,0.67
+5.6,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA8004,DH8,Southwest,9,0.26
+5.67,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL9573,E75,Southwest,9,0.14
+5.69,American Airlines,"Cancún International Airport; Cancun, Mexico",AA4409,319,Southwest,9,0.47
+5.71,British Airways,"London Heathrow Airport; London, United Kingdom",BA9772,744,Southwest,9,0.12
+5.73,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS2179,757,Southwest,9,0.06
+5.78,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS2887,738,Southwest,9,0.27
+5.8,SATA International,"João Paulo II Airport; Ponta Delgada, Portugal",S42975,313,Southwest,9,0.48
+5.82,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA9852,319,Southwest,9,0.08
+5.84,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN3083,73W,Southwest,9,1.04
+5.87,JetBlue Airways,"Savannah Hilton Head International Airport; Savannah, United States",B66224,E90,Southwest,9,1.1
+5.91,American Airlines,"Portland International Airport; Portland, United States",AA9448,737,Southwest,9,0.08
+5.93,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA6131,E90,Southwest,9,0.55
+6.02,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN4782,73W,Southwest,9,1.85
+6.24,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN2888,73W,Southwest,9,0.08
+6.34,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K9965,CNA,Southwest,9,0.8
+6.45,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA2199,CRJ,Southwest,9,1.02
+6.77,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC527,DH1,Southwest,9,0.09
+6.88,United Airlines,"Frankfurt am Main Airport; Frankfurt, Germany",UA4624,346,Southwest,9,0.93
+7.09,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B61371,320,Southwest,9,0.97
+7.41,Cape Air,"Knox County Regional Airport; Rockland, United States",9K3977,CNA,Southwest,9,0.21
+7.74,United Airlines,"Denver International Airport; Denver, United States",UA5728,739,Southwest,9,0.58
+7.84,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA9662,E70,Southwest,9,0.25
+7.95,Delta Air Lines,"Charles de Gaulle International Airport; Paris, France",DL2168,752,Southwest,9,0.75
+8.17,JetBlue Airways,"Austin Bergstrom International Airport; Austin, United States",B65651,E90,Southwest,9,0.1
+8.27,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN246,717,Southwest,9,0.27
+8.38,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN7047,73W,Southwest,9,0.0
+8.49,Emirates,"Dubai International Airport; Dubai, United Arab Emirates",EK6676,77L,Southwest,9,0.71
+8.59,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA668,321,Southwest,9,0.03
+8.81,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL897,73H,Southwest,9,0.62
+9.13,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN463,73W,Southwest,9,0.18
+9.24,Delta Air Lines,"Charles de Gaulle International Airport; Paris, France",DL1609,752,Southwest,9,0.44
+9.34,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL8196,E75,Southwest,9,0.67
+9.67,Delta Air Lines,"La Guardia Airport; New York, United States",DL1349,E75,Southwest,9,0.04
+9.77,Spirit Airlines,"Myrtle Beach International Airport; Myrtle Beach, United States",NK6627,320,Southwest,9,0.08
+9.88,Alaska Airlines,"Long Island Mac Arthur Airport; Islip, United States",AS7232,SF3,Southwest,9,0.35
+10.1,JetBlue Airways,"Louis Armstrong New Orleans International Airport; New Orleans, United States",B67591,E90,Southwest,9,1.35
+10.2,Cape Air,"Hancock County-Bar Harbor Airport; Bar Harbor, United States",9K5016,CNA,Southwest,9,0.18
+10.31,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL8699,73H,Southwest,9,0.09
+11.06,JetBlue Airways,"Princess Juliana International Airport; Philipsburg, Netherlands Antilles",B62123,320,Southwest,9,0.49
+11.38,Alaska Airlines,"Seattle Tacoma International Airport; Seattle, United States",AS4443,73H,Southwest,9,0.1
+11.7,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA9769,738,Southwest,9,0.46
+11.92,Southwest Airlines,"William P Hobby Airport; Houston, United States",WN7308,73W,Southwest,9,0.14
+12.03,American Airlines,"Miami International Airport; Miami, United States",AA2340,738,Southwest,9,0.33
+12.34,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL2469,330,Southwest,9,0.75
+12.49,American Airlines,"Miami International Airport; Miami, United States",AA7706,757,Southwest,9,0.67
+12.81,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA8077,738,Southwest,9,0.01
+12.96,British Airways,"London Heathrow Airport; London, United Kingdom",BA2911,777,Southwest,9,0.35
+13.12,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B69262,E90,Southwest,9,0.53
+14.05,Finnair,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AY4867,333,Southwest,9,0.03
+14.37,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS798,SF3,Southwest,9,0.21
+14.52,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX8449,333,Southwest,9,0.25
+14.68,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K4489,CNA,Southwest,9,1.21
+14.99,Cape Air,"Rutland - Southern Vermont Regional Airport; Rutland, United States",9K6806,CNA,Southwest,9,1.41
+15.15,Delta Air Lines,"Orlando International Airport; Orlando, United States",DL7008,320,Southwest,9,0.11
+15.46,American Airlines,"Portland International Airport; Portland, United States",AA3669,737,Southwest,9,0.07
+15.62,American Airlines,"Miami International Airport; Miami, United States",AA9360,757,Southwest,9,0.32
+15.77,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA3050,E70,Southwest,9,0.16
+16.24,JetBlue Airways,"Newark Liberty International Airport; Newark, United States",B64948,E90,Southwest,9,0.45
+16.71,Air France,"Charles de Gaulle International Airport; Paris, France",AF3899,744,Southwest,9,0.46
+16.86,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN9215,733,Southwest,9,0.06
+17.02,Air Canada,"Halifax / Stanfield International Airport; Halifax, Canada",AC8543,CRJ,Southwest,9,0.27
+18.23,Alaska Airlines,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",AS9840,SF3,Southwest,9,0.01
+18.46,Copa Airlines,"Tocumen International Airport; Panama City, Panama",CM2981,73G,Southwest,9,0.01
+18.58,American Airlines,"Richmond International Airport; Richmond, United States",AA7559,CRJ,Southwest,9,0.11
+18.69,JetBlue Airways,"Princess Juliana International Airport; Philipsburg, Netherlands Antilles",B63701,320,Southwest,9,0.14
+18.81,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN812,717,Southwest,9,0.08
+18.92,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL1472,320,Southwest,9,0.49
+19.27,Delta Air Lines,"Cincinnati Northern Kentucky International Airport; Cincinnati, United States",DL284,320,Southwest,9,0.33
+19.38,JetBlue Airways,"Ronald Reagan Washington National Airport; Washington, United States",B69251,320,Southwest,9,0.28
+19.62,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN5612,73W,Southwest,9,0.2
+20.08,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ1163,330,Southwest,9,0.18
+20.31,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B65743,E90,Southwest,9,2.59
+20.66,JetBlue Airways,"Chicago O'Hare International Airport; Chicago, United States",B62742,E90,Southwest,9,0.93
+21.0,JetBlue Airways,"Orlando International Airport; Orlando, United States",B62767,320,Southwest,9,0.26
+21.23,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA7803,753,Southwest,9,0.65
+21.35,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA327,738,Southwest,9,0.09
+21.58,Iberia Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",IB6755,333,Southwest,9,1.19
+22.16,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA2963,DH8,Southwest,9,0.03
+22.27,JetBlue Airways,"Lynden Pindling International Airport; Nassau, Bahamas",B62125,E90,Southwest,9,0.85
+22.39,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA8871,E90,Southwest,9,0.34
+22.5,United Airlines,"Denver International Airport; Denver, United States",UA4411,320,Southwest,9,0.51
+22.74,TAP Portugal,"João Paulo II Airport; Ponta Delgada, Portugal",TP8980,313,Southwest,9,0.13
+22.85,JetBlue Airways,"San Francisco International Airport; San Francisco, United States",B6228,320,Southwest,9,0.74
+23.2,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA666,738,Southwest,9,0.1
+23.54,United Airlines,"Tocumen International Airport; Panama City, Panama",UA1675,73G,Southwest,9,0.19
+23.66,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH6359,333,Southwest,9,0.95
+0.02,JetBlue Airways,"Luis Munoz Marin International Airport; San Juan, Puerto Rico",B69256,320,Northwest,27,0.36
+0.04,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA960,738,Northwest,27,1.72
+0.09,American Airlines,"John F Kennedy International Airport; New York, United States",AA7595,738,Northwest,27,0.31
+0.11,Finnair,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AY6507,333,Northwest,27,0.27
+0.16,Delta Air Lines,"La Guardia Airport; New York, United States",DL5670,E75,Northwest,27,0.45
+0.18,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS1119,SF3,Northwest,22R,0.13
+0.24,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK5816,319,Northwest,27,0.54
+0.27,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA6483,CRJ,Northwest,27,1.25
+0.31,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN2665,73W,Northwest,27,2.02
+0.33,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN8128,73W,Northwest,27,2.21
+0.4,Alaska Airlines,"Long Island Mac Arthur Airport; Islip, United States",AS1175,SF3,Northwest,22R,0.14
+0.42,Copa Airlines,"Tocumen International Airport; Panama City, Panama",CM4171,73G,Northwest,27,0.13
+0.6,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC8719,DH1,Northwest,22R,0.19
+0.62,JetBlue Airways,"McCarran International Airport; Las Vegas, United States",B6803,320,Northwest,27,0.49
+0.67,JetBlue Airways,"Chicago O'Hare International Airport; Chicago, United States",B63907,E90,Northwest,27,0.22
+0.64,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K2427,CNA,Northwest,22R,1.64
+0.73,Alaska Airlines,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",AS806,SF3,Northwest,22R,0.85
+0.84,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA1458,757,Northwest,27,0.21
+0.87,Cape Air,"Provincetown Municipal Airport; Provincetown, United States",9K92,CNA,Northwest,22R,0.24
+0.96,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS3222,738,Northwest,27,0.99
+1.02,United Airlines,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",UA4270,CRJ,Northwest,27,0.4
+1.04,Air Canada,"Halifax / Stanfield International Airport; Halifax, Canada",AC6207,CRJ,Northwest,27,0.5
+1.07,Cape Air,"Rutland - Southern Vermont Regional Airport; Rutland, United States",9K1581,CNA,Northwest,22R,0.18
+1.11,Cape Air,"Albany International Airport; Albany, United States",9K9875,CNA,Northwest,22R,0.27
+1.16,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL2200,CR9,Northwest,27,0.29
+1.2,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B6878,E90,Northwest,27,0.23
+1.24,JetBlue Airways,"Denver International Airport; Denver, United States",B6396,320,Northwest,27,1.44
+1.27,Southwest Airlines,"St Louis Lambert International Airport; St. Louis, United States",WN1712,73C,Northwest,27,1.52
+1.29,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS2659,SF3,Northwest,22R,0.19
+1.33,United Airlines,"Tocumen International Airport; Panama City, Panama",UA8065,73G,Northwest,27,0.46
+1.67,Japan Airlines Domestic,"Narita International Airport; Tokyo, Japan",JL6976,788,Northwest,27,0.81
+1.76,Delta Air Lines,"Cincinnati Northern Kentucky International Airport; Cincinnati, United States",DL2424,320,Northwest,27,0.81
+1.8,Iberia Airlines,"London Heathrow Airport; London, United Kingdom",IB1710,777,Northwest,27,0.07
+1.91,Iberia Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",IB1185,333,Northwest,27,0.49
+1.96,JetBlue Airways,"Louis Armstrong New Orleans International Airport; New Orleans, United States",B67851,E90,Northwest,27,0.09
+2.0,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA1756,DH3,Northwest,22R,0.97
+2.02,JetBlue Airways,"Punta Cana International Airport; Punta Cana, Dominican Republic",B68447,320,Northwest,27,0.2
+2.11,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL1232,330,Northwest,27,0.42
+2.16,JetBlue Airways,"Portland International Airport; Portland, United States",B67144,320,Northwest,27,0.24
+2.22,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA4789,320,Northwest,27,0.03
+2.24,United Airlines,"Cleveland Hopkins International Airport; Cleveland, United States",UA7053,319,Northwest,27,0.2
+2.31,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA5755,CRJ,Northwest,27,0.52
+2.38,Spirit Airlines,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",NK1425,319,Northwest,27,0.13
+2.4,JetBlue Airways,"Ronald Reagan Washington National Airport; Washington, United States",B67977,E90,Northwest,27,0.08
+2.47,British Airways,"London Heathrow Airport; London, United Kingdom",BA6522,777,Northwest,27,0.42
+2.49,Delta Air Lines,"John Glenn Columbus International Airport; Columbus, United States",DL8515,ERJ,Northwest,27,0.87
+2.53,JetBlue Airways,"Los Angeles International Airport; Los Angeles, United States",B68284,320,Northwest,27,0.12
+2.55,JetBlue Airways,"Luis Munoz Marin International Airport; San Juan, Puerto Rico",B66144,320,Northwest,27,1.49
+2.58,United Airlines,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",UA3468,DH3,Northwest,22R,1.63
+2.62,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL6798,M90,Northwest,27,0.02
+2.71,Air France,"London Heathrow Airport; London, United Kingdom",AF3371,764,Northwest,27,0.93
+2.75,Spirit Airlines,"Myrtle Beach International Airport; Myrtle Beach, United States",NK2851,320,Northwest,27,0.83
+2.8,Spirit Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",NK5549,319,Northwest,27,1.5
+2.84,JetBlue Airways,"Dubai International Airport; Dubai, United Arab Emirates",B6812,77L,Northwest,27,0.12
+2.89,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA8636,319,Northwest,27,0.08
+2.93,Porter Airlines,"Billy Bishop Toronto City Centre Airport; Toronto, Canada",PD1180,DH4,Northwest,22R,1.1
+2.95,American Airlines,"San Diego International Airport; San Diego, United States",AA8641,737,Northwest,27,0.05
+3.0,Spirit Airlines,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",NK1492,319,Northwest,27,0.25
+3.02,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL7851,330,Northwest,27,0.7
+3.07,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ1889,332,Northwest,27,0.62
+3.18,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA1906,320,Northwest,27,0.1
+3.2,Air Canada,"Lester B. Pearson International Airport; Toronto, Canada",AC8310,E75,Northwest,27,1.49
+3.27,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA7988,DH8,Northwest,22R,1.0
+3.31,JetBlue Airways,"Philadelphia International Airport; Philadelphia, United States",B63053,E90,Northwest,27,0.16
+3.4,British Airways,"London Heathrow Airport; London, United Kingdom",BA479,744,Northwest,27,0.31
+3.42,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA3755,738,Northwest,27,0.94
+3.44,Delta Air Lines,"Charles de Gaulle International Airport; Paris, France",DL3163,752,Northwest,27,0.02
+3.47,JetBlue Airways,"Lynden Pindling International Airport; Nassau, Bahamas",B66822,E90,Northwest,27,0.6
+3.53,Cape Air,"Knox County Regional Airport; Rockland, United States",9K9254,CNA,Northwest,22R,0.22
+3.55,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA8871,738,Northwest,27,0.26
+3.64,American Airlines,"Narita International Airport; Tokyo, Japan",AA587,787,Northwest,27,0.51
+3.67,JetBlue Airways,"Detroit Metropolitan Wayne County Airport; Detroit, United States",B68874,E90,Northwest,27,0.2
+3.71,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN4718,73W,Northwest,27,0.39
+3.73,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K6138,CNA,Northwest,22R,0.13
+3.75,JetBlue Airways,"San Diego International Airport; San Diego, United States",B69449,320,Northwest,27,0.22
+3.8,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI817,757,Northwest,27,0.1
+3.82,Cape Air,"Lebanon Municipal Airport; Lebanon, United States",9K4625,CNA,Northwest,22R,0.28
+3.89,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA6304,739,Northwest,27,0.39
+3.93,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA1624,321,Northwest,27,0.3
+3.95,Spirit Airlines,"Myrtle Beach International Airport; Myrtle Beach, United States",NK9791,319,Northwest,27,0.03
+3.98,Southwest Airlines,"William P Hobby Airport; Houston, United States",WN2348,73W,Northwest,27,0.28
+4.0,American Airlines,"Seattle Tacoma International Airport; Seattle, United States",AA7219,737,Northwest,27,0.71
+4.07,JetBlue Airways,"Charleston Air Force Base-International Airport; Charleston, United States",B61289,E90,Northwest,27,0.44
+4.11,American Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AA6486,330,Northwest,27,2.29
+4.18,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL8230,320,Northwest,27,0.43
+4.2,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA4360,319,Northwest,27,0.84
+4.24,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL868,73H,Northwest,27,0.81
+4.27,KLM Royal Dutch Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",KL5526,319,Northwest,27,0.22
+4.31,United Airlines,"Frankfurt am Main Airport; Frankfurt, Germany",UA5270,744,Northwest,27,0.21
+4.38,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA8368,CRJ,Northwest,27,1.12
+4.47,Air Canada,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",AC227,CRJ,Northwest,27,0.04
+4.55,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA8804,DH8,Northwest,22R,0.23
+4.58,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B61407,320,Northwest,27,0.3
+4.64,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN447,733,Northwest,27,0.81
+4.71,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC8166,DH1,Northwest,22R,0.44
+4.82,Air Canada,"Halifax / Stanfield International Airport; Halifax, Canada",AC4343,CRJ,Northwest,27,0.01
+4.87,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA4932,CRJ,Northwest,27,0.03
+4.89,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA2106,DH1,Northwest,22R,0.07
+4.93,American Airlines,"John F Kennedy International Airport; New York, United States",AA3463,738,Northwest,27,0.74
+4.98,Alaska Airlines,"Portland International Airport; Portland, United States",AS7806,73H,Northwest,27,0.87
+5.02,Finnair,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AY828,333,Northwest,27,0.71
+5.04,JetBlue Airways,"Luis Munoz Marin International Airport; San Juan, Puerto Rico",B64626,320,Northwest,27,0.72
+5.13,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK9716,319,Northwest,27,0.0
+5.22,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS5240,757,Northwest,27,0.08
+5.24,British Airways,"London Heathrow Airport; London, United Kingdom",BA7597,744,Northwest,27,0.92
+5.31,Spirit Airlines,"Atlantic City International Airport; Atlantic City, United States",NK4397,319,Northwest,27,0.11
+5.42,Delta Air Lines,"Raleigh Durham International Airport; Raleigh-durham, United States",DL9807,CR9,Northwest,27,0.35
+5.47,American Airlines,"Seattle Tacoma International Airport; Seattle, United States",AA6807,737,Northwest,27,0.14
+5.51,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX2132,333,Northwest,27,0.02
+5.53,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ7518,332,Northwest,27,0.32
+5.58,JetBlue Airways,"San Francisco International Airport; San Francisco, United States",B67078,320,Northwest,27,0.32
+5.62,Air France,"London Heathrow Airport; London, United Kingdom",AF9546,764,Northwest,27,1.01
+5.64,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA7363,319,Northwest,27,0.53
+5.69,United Airlines,"Chicago O'Hare International Airport; Chicago, United States",UA729,319,Northwest,27,0.61
+5.71,Delta Air Lines,"Salt Lake City International Airport; Salt Lake City, United States",DL7489,738,Northwest,27,0.3
+5.82,Peninsula Airways,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",KS5520,SF3,Northwest,22R,0.68
+5.87,JetBlue Airways,"Denver International Airport; Denver, United States",B61699,320,Northwest,27,0.61
+5.89,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN5802,73W,Northwest,27,0.83
+6.0,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH8948,333,Northwest,27,0.18
+6.13,United Airlines,"Washington Dulles International Airport; Washington, United States",UA6807,739,Northwest,27,0.27
+6.24,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN5554,73W,Northwest,27,0.21
+6.56,JetBlue Airways,"Austin Bergstrom International Airport; Austin, United States",B65362,E90,Northwest,27,0.28
+6.99,Delta Air Lines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",DL9572,M88,Northwest,27,0.63
+7.31,Delta Air Lines,"La Guardia Airport; New York, United States",DL6963,E75,Northwest,27,0.17
+7.52,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI8535,757,Northwest,27,1.13
+7.63,JetBlue Airways,"Charlotte Douglas International Airport; Charlotte, United States",B67687,E90,Northwest,27,1.3
+7.84,American Airlines,"Cancún International Airport; Cancun, Mexico",AA3012,319,Northwest,27,0.4
+8.27,Emirates,"Dubai International Airport; Dubai, United Arab Emirates",EK4734,77L,Northwest,27,1.19
+8.49,TAP Portugal,"Humberto Delgado Airport (Lisbon Portela Airport); Lisbon, Portugal",TP5510,313,Northwest,27,0.45
+8.7,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL3858,330,Northwest,27,0.97
+8.81,Delta Air Lines,"London Heathrow Airport; London, United Kingdom",DL8090,764,Northwest,27,1.61
+9.24,Spirit Airlines,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",NK9447,319,Northwest,27,1.49
+9.34,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL4034,320,Northwest,27,0.34
+9.45,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL2364,320,Northwest,27,0.74
+9.56,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL1247,767,Northwest,27,0.33
+9.67,AeroMéxico,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AM6496,320,Northwest,27,0.46
+9.77,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B69623,320,Northwest,27,0.16
+9.88,American Airlines,"Richmond International Airport; Richmond, United States",AA8837,CRJ,Northwest,27,0.7
+9.99,Aer Lingus,"Dublin Airport; Dublin, Ireland",EI4306,330,Northwest,27,0.03
+10.1,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B65614,320,Northwest,27,0.77
+10.2,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN8593,73W,Northwest,27,0.26
+10.52,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL7557,E75,Northwest,27,0.68
+10.63,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL531,CR7,Northwest,27,0.19
+10.85,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN3722,73W,Northwest,27,0.59
+10.95,Cape Air,"Knox County Regional Airport; Rockland, United States",9K3025,CNA,Northwest,22R,0.22
+11.17,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA4890,319,Northwest,27,0.13
+11.6,United Airlines,"San Francisco International Airport; San Francisco, United States",UA1274,753,Northwest,27,0.53
+12.03,Porter Airlines,"Billy Bishop Toronto City Centre Airport; Toronto, Canada",PD8796,DH4,Northwest,22R,0.02
+12.34,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN4348,73W,Northwest,27,0.08
+12.49,Peninsula Airways,"Long Island Mac Arthur Airport; Islip, United States",KS213,SF3,Northwest,22R,0.12
+12.65,JetBlue Airways,"Los Angeles International Airport; Los Angeles, United States",B62652,320,Northwest,27,0.02
+12.81,American Airlines,"La Guardia Airport; New York, United States",AA6662,319,Northwest,27,0.11
+13.27,KLM Royal Dutch Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",KL7323,757,Northwest,27,0.82
+13.43,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN9815,73W,Northwest,27,0.03
+13.74,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL7724,CR7,Northwest,27,0.81
+14.21,SATA International,"Humberto Delgado Airport (Lisbon Portela Airport); Lisbon, Portugal",S4418,313,Northwest,27,0.28
+14.37,Alaska Airlines,"Seattle Tacoma International Airport; Seattle, United States",AS9295,73H,Northwest,27,0.11
+14.99,Delta Air Lines,"Orlando International Airport; Orlando, United States",DL55,320,Northwest,27,0.43
+15.62,Alaska Airlines,"San Francisco International Airport; San Francisco, United States",AS6042,320,Northwest,27,0.23
+15.77,United Airlines,"Tocumen International Airport; Panama City, Panama",UA5931,73G,Northwest,27,0.01
+15.93,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK6138,319,Northwest,27,0.36
+16.4,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF7745,738,Northwest,27,0.25
+16.71,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN7305,717,Northwest,27,0.06
+17.18,Alitalia,"Charles de Gaulle International Airport; Paris, France",AZ8981,744,Northwest,27,0.01
+17.33,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN7706,73W,Northwest,27,1.4
+17.49,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA5562,E90,Northwest,27,0.36
+17.96,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA467,CRJ,Northwest,27,0.0
+18.34,Virgin Atlantic Airways,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",VS2311,320,Northwest,27,0.29
+18.46,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX8862,333,Northwest,27,0.16
+19.04,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B67038,320,Northwest,27,0.12
+19.27,Finnair,"London Heathrow Airport; London, United Kingdom",AY8450,777,Northwest,27,0.38
+19.38,JetBlue Airways,"Seattle Tacoma International Airport; Seattle, United States",B69822,320,Northwest,27,0.28
+19.62,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B6962,320,Northwest,27,0.94
+19.73,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA8412,320,Northwest,27,0.95
+19.85,Peninsula Airways,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",KS8401,SF3,Northwest,22R,1.1
+19.96,United Airlines,"Frankfurt am Main Airport; Frankfurt, Germany",UA6459,346,Northwest,27,1.14
+20.08,Cape Air,"Provincetown Municipal Airport; Provincetown, United States",9K6498,CNA,Northwest,22R,0.04
+20.31,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA6133,738,Northwest,27,1.16
+20.89,United Airlines,"Cleveland Hopkins International Airport; Cleveland, United States",UA2452,319,Northwest,27,0.18
+21.12,JetBlue Airways,"McCarran International Airport; Las Vegas, United States",B62553,320,Northwest,27,0.01
+21.23,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH5058,333,Northwest,27,0.44
+21.46,British Airways,"London Heathrow Airport; London, United Kingdom",BA1364,333,Northwest,27,0.19
+21.7,Delta Air Lines,"L.F. Wade International International Airport; Bermuda, Bermuda",DL2969,738,Northwest,27,0.29
+21.93,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA3415,738,Northwest,27,0.34
+22.16,American Airlines,"Seattle Tacoma International Airport; Seattle, United States",AA9292,737,Northwest,27,0.04
+22.5,Cape Air,"Hancock County-Bar Harbor Airport; Bar Harbor, United States",9K1829,CNA,Northwest,22R,0.71
+22.62,JetBlue Airways,"Chicago O'Hare International Airport; Chicago, United States",B63929,320,Northwest,27,0.03
+22.85,JetBlue Airways,"Raleigh Durham International Airport; Raleigh-durham, United States",B64407,E90,Northwest,27,0.23
+22.97,Southwest Airlines,"Denver International Airport; Denver, United States",WN9723,73W,Northwest,27,0.31
+23.89,United Airlines,"Tocumen International Airport; Panama City, Panama",UA1648,73G,Northwest,27,0.3
+0.07,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B63279,320,Northeast,32,0.14
+0.13,Alaska Airlines,"San Francisco International Airport; San Francisco, United States",AS7282,320,Northeast,32,0.15
+0.16,Delta Air Lines,"Salt Lake City International Airport; Salt Lake City, United States",DL3755,73H,Northeast,32,0.02
+0.18,Air Canada,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",AC3783,DH3,Northeast,32,0.04
+0.27,Delta Air Lines,"Minneapolis-St Paul International/Wold-Chamberlain Airport; Minneapolis, United States",DL6581,73H,Northeast,32,0.59
+0.29,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX8573,333,Northeast,32,0.41
+0.31,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B61008,320,Northeast,32,0.19
+0.33,Alaska Airlines,"San Francisco International Airport; San Francisco, United States",AS3280,320,Northeast,32,0.46
+0.38,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK8050,319,Northeast,32,0.91
+0.42,JetBlue Airways,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",B6120,E90,Northeast,32,0.14
+0.47,Cape Air,"Albany International Airport; Albany, United States",9K9266,CNA,Northeast,32,0.88
+0.49,Cape Air,"Barnstable Municipal Boardman Polando Field; Barnstable, United States",9K3815,CNA,Northeast,32,0.4
+0.56,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN6155,73W,Northeast,32,0.57
+0.58,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA7234,DH8,Northeast,32,1.95
+0.62,JetBlue Airways,"Louis Armstrong New Orleans International Airport; New Orleans, United States",B62072,E90,Northeast,32,0.02
+0.64,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI8479,757,Northeast,32,0.04
+0.67,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA7793,CRJ,Northeast,32,0.46
+0.78,Sun Country Airlines,"Minneapolis-St Paul International/Wold-Chamberlain Airport; Minneapolis, United States",SY1821,738,Northeast,32,0.01
+0.8,Air Canada,"Lester B. Pearson International Airport; Toronto, Canada",AC4813,E75,Northeast,32,0.74
+1.02,JetBlue Airways,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",B62936,E90,Northeast,32,0.39
+1.07,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN3923,73W,Northeast,32,0.12
+1.09,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ51,332,Northeast,32,0.76
+1.18,Alaska Airlines,"Seattle Tacoma International Airport; Seattle, United States",AS2567,73H,Northeast,32,0.33
+1.2,JetBlue Airways,"Las Américas International Airport; Santo Domingo, Dominican Republic",B6366,320,Northeast,32,0.09
+1.29,JetBlue Airways,"Princess Juliana International Airport; Philipsburg, Netherlands Antilles",B62296,320,Northeast,32,0.5
+1.36,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA357,738,Northeast,32,0.63
+1.47,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B64190,E90,Northeast,32,0.66
+1.51,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN1645,73W,Northeast,32,0.56
+1.53,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA5687,738,Northeast,32,0.5
+1.58,United Airlines,"Zürich Airport; Zurich, Switzerland",UA3751,333,Northeast,32,0.36
+1.6,United Airlines,"Tocumen International Airport; Panama City, Panama",UA6887,73G,Northeast,32,0.01
+1.71,Delta Air Lines,"L.F. Wade International International Airport; Bermuda, Bermuda",DL8113,738,Northeast,32,0.08
+1.73,Delta Air Lines,"London Heathrow Airport; London, United Kingdom",DL8718,764,Northeast,32,0.22
+1.76,Air France,"Charles de Gaulle International Airport; Paris, France",AF4371,744,Northeast,32,0.04
+1.78,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA2223,CRJ,Northeast,32,0.27
+1.8,Alitalia,"Charles de Gaulle International Airport; Paris, France",AZ7661,744,Northeast,32,0.12
+1.82,Copa Airlines,"Tocumen International Airport; Panama City, Panama",CM879,73G,Northeast,32,0.12
+1.87,Spirit Airlines,"Atlantic City International Airport; Atlantic City, United States",NK9026,319,Northeast,32,0.2
+1.93,Southwest Airlines,"Denver International Airport; Denver, United States",WN7887,73W,Northeast,32,1.05
+2.04,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX7949,333,Northeast,32,0.04
+2.11,JetBlue Airways,"Phoenix Sky Harbor International Airport; Phoenix, United States",B67713,320,Northeast,32,0.17
+2.18,JetBlue Airways,"Las Américas International Airport; Santo Domingo, Dominican Republic",B68044,320,Northeast,32,0.86
+2.22,Delta Air Lines,"Lynden Pindling International Airport; Nassau, Bahamas",DL5284,E75,Northeast,32,0.76
+2.24,JetBlue Airways,"Richmond International Airport; Richmond, United States",B68174,E90,Northeast,32,0.23
+2.29,JetBlue Airways,"Tampa International Airport; Tampa, United States",B64565,320,Northeast,32,1.59
+2.31,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA5999,319,Northeast,32,0.41
+2.33,United Airlines,"Washington Dulles International Airport; Washington, United States",UA4937,752,Northeast,32,0.49
+2.35,Aer Lingus,"Dublin Airport; Dublin, Ireland",EI9113,330,Northeast,32,0.56
+2.53,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL6288,752,Northeast,32,1.12
+2.6,Alaska Airlines,"San Diego International Airport; San Diego, United States",AS3894,73H,Northeast,32,0.09
+2.64,United Airlines,"Cleveland Hopkins International Airport; Cleveland, United States",UA6416,319,Northeast,32,0.87
+2.71,United Airlines,"Dublin Airport; Dublin, Ireland",UA7169,332,Northeast,32,1.09
+2.73,Delta Air Lines,"London Heathrow Airport; London, United Kingdom",DL2704,764,Northeast,32,0.6
+2.75,Lufthansa Cargo,"Frankfurt am Main Airport; Frankfurt, Germany",LH7609,346,Northeast,32,0.6
+2.78,JetBlue Airways,"Portland International Airport; Portland, United States",B63875,320,Northeast,32,0.19
+2.8,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA2704,CRJ,Northeast,32,0.19
+2.91,Spirit Airlines,"Myrtle Beach International Airport; Myrtle Beach, United States",NK4753,319,Northeast,32,0.28
+3.02,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF320,757,Northeast,32,2.46
+3.07,Delta Air Lines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",DL7680,320,Northeast,32,0.1
+3.09,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI8879,757,Northeast,32,1.18
+3.13,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN9405,717,Northeast,32,0.82
+3.18,Air Canada,"Lester B. Pearson International Airport; Toronto, Canada",AC8854,E75,Northeast,32,1.74
+3.29,JetBlue Airways,"Punta Cana International Airport; Punta Cana, Dominican Republic",B61297,320,Northeast,32,0.25
+3.38,British Airways,"London Heathrow Airport; London, United Kingdom",BA9018,333,Northeast,32,0.08
+3.4,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA6926,320,Northeast,32,0.06
+3.42,Peninsula Airways,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",KS8046,SF3,Northeast,32,0.71
+3.44,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K9618,CNA,Northeast,32,0.12
+3.49,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA2479,738,Northeast,32,0.5
+3.55,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B64133,E90,Northeast,32,0.34
+3.58,Delta Air Lines,"Richmond International Airport; Richmond, United States",DL4850,CR7,Northeast,32,1.19
+3.6,JetBlue Airways,"William P Hobby Airport; Houston, United States",B6118,E90,Northeast,32,0.21
+3.64,TAP Portugal,"João Paulo II Airport; Ponta Delgada, Portugal",TP2155,313,Northeast,32,0.27
+3.69,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B62858,320,Northeast,32,0.47
+3.75,Southwest Airlines,"Denver International Airport; Denver, United States",WN3827,73W,Northeast,32,0.35
+3.8,Alitalia,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AZ6554,319,Northeast,32,1.05
+3.82,JetBlue Airways,"McCarran International Airport; Las Vegas, United States",B66764,320,Northeast,32,0.44
+3.84,Air France,"Charles de Gaulle International Airport; Paris, France",AF3811,744,Northeast,32,0.14
+3.87,Cape Air,"Knox County Regional Airport; Rockland, United States",9K4484,CNA,Northeast,32,0.06
+3.89,American Airlines,"Richmond International Airport; Richmond, United States",AA277,CRJ,Northeast,32,0.36
+3.91,JetBlue Airways,"Seattle Tacoma International Airport; Seattle, United States",B64362,320,Northeast,32,0.48
+3.93,JetBlue Airways,"Philadelphia International Airport; Philadelphia, United States",B64752,E90,Northeast,32,0.14
+4.11,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI456,75W,Northeast,32,0.19
+4.15,TACV,"Praia International Airport; Praia, Santiago Island, Cape Verde",VR3364,752,Northeast,32,0.95
+4.22,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL7591,E75,Northeast,32,0.23
+4.27,Alaska Airlines,"Seattle Tacoma International Airport; Seattle, United States",AS779,73H,Northeast,32,0.71
+4.35,JetBlue Airways,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",B67803,E90,Northeast,32,0.38
+4.42,Spirit Airlines,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",NK4484,319,Northeast,32,0.73
+4.44,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B61065,320,Northeast,32,0.12
+4.49,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN3416,73C,Northeast,32,0.28
+4.51,United Airlines,"Cleveland Hopkins International Airport; Cleveland, United States",UA5423,73G,Northeast,32,0.02
+4.53,JetBlue Airways,"Las Américas International Airport; Santo Domingo, Dominican Republic",B62604,320,Northeast,32,0.75
+4.58,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA4919,320,Northeast,32,0.3
+4.6,AeroMéxico,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AM1421,M90,Northeast,32,0.18
+4.62,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA3520,CRJ,Northeast,32,0.03
+4.64,Copa Airlines,"Tocumen International Airport; Panama City, Panama",CM3483,73G,Northeast,32,0.38
+4.71,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA6430,757,Northeast,32,0.3
+4.82,American Airlines,"La Guardia Airport; New York, United States",AA208,319,Northeast,32,0.29
+4.87,Cape Air,"Provincetown Municipal Airport; Provincetown, United States",9K3581,CNA,Northeast,32,1.87
+4.93,JetBlue Airways,"San Diego International Airport; San Diego, United States",B6244,320,Northeast,32,0.15
+4.95,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA4076,320,Northeast,32,0.06
+5.0,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL9176,73H,Northeast,32,0.04
+5.02,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K8099,CNA,Northeast,32,0.95
+5.04,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA1190,738,Northeast,32,1.3
+5.11,Aer Lingus,"Dublin Airport; Dublin, Ireland",EI8044,330,Northeast,32,0.53
+5.18,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B61674,320,Northeast,32,0.19
+5.24,JetBlue Airways,"Savannah Hilton Head International Airport; Savannah, United States",B63330,E90,Northeast,32,0.1
+5.27,JetBlue Airways,"Dubai International Airport; Dubai, United Arab Emirates",B64992,77L,Northeast,32,0.52
+5.33,American Airlines,"Cancún International Airport; Cancun, Mexico",AA8792,319,Northeast,32,0.15
+5.38,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL4823,CR7,Northeast,32,0.17
+5.4,Delta Air Lines,"Salt Lake City International Airport; Salt Lake City, United States",DL6112,320,Northeast,32,1.01
+5.42,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA8074,E70,Northeast,32,0.25
+5.44,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B68526,320,Northeast,32,0.26
+5.49,JetBlue Airways,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",B64197,E90,Northeast,32,1.44
+5.69,Southwest Airlines,"Denver International Airport; Denver, United States",WN6395,73W,Northeast,32,0.52
+5.75,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA6774,738,Northeast,32,0.06
+5.82,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA932,DH1,Northeast,32,1.36
+5.89,American Airlines,"Miami International Airport; Miami, United States",AA4690,738,Northeast,32,0.43
+5.91,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA5240,DH8,Northeast,32,0.16
+5.93,Delta Air Lines,"Richmond International Airport; Richmond, United States",DL6874,CR7,Northeast,32,0.46
+5.95,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN7089,717,Northeast,32,0.14
+6.34,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA8476,CRJ,Northeast,32,0.07
+6.56,Copa Airlines,"Tocumen International Airport; Panama City, Panama",CM5125,73G,Northeast,32,1.41
+6.66,Alaska Airlines,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",AS941,SF3,Northeast,32,0.14
+6.77,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN7640,73C,Northeast,32,0.61
+7.09,Delta Air Lines,"Lynden Pindling International Airport; Nassau, Bahamas",DL6699,E75,Northeast,32,0.55
+7.31,American Airlines,"London Heathrow Airport; London, United Kingdom",AA9658,777,Northeast,32,0.82
+7.41,Cape Air,"Knox County Regional Airport; Rockland, United States",9K6241,CNA,Northeast,32,0.1
+7.63,JetBlue Airways,"Savannah Hilton Head International Airport; Savannah, United States",B61658,E90,Northeast,32,0.78
+7.74,Lufthansa Cargo,"Frankfurt am Main Airport; Frankfurt, Germany",LH8313,744,Northeast,32,0.08
+8.06,JetBlue Airways,"Washington Dulles International Airport; Washington, United States",B67355,E90,Northeast,32,0.7
+8.38,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA403,738,Northeast,32,0.46
+8.49,American Airlines,"San Diego International Airport; San Diego, United States",AA8977,737,Northeast,32,0.08
+8.81,JetBlue Airways,"Charlotte Douglas International Airport; Charlotte, United States",B63703,E90,Northeast,32,0.08
+9.13,JetBlue Airways,"Orlando International Airport; Orlando, United States",B68671,320,Northeast,32,0.15
+9.24,Cape Air,"Barnstable Municipal Boardman Polando Field; Barnstable, United States",9K993,CNA,Northeast,32,0.96
+9.34,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B63765,320,Northeast,32,0.47
+9.45,United Airlines,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",UA4012,CRJ,Northeast,32,0.02
+9.77,JetBlue Airways,"Raleigh Durham International Airport; Raleigh-durham, United States",B61475,E90,Northeast,32,0.98
+10.2,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN3837,717,Northeast,32,0.08
+10.42,KLM Royal Dutch Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",KL6107,320,Northeast,32,0.65
+10.95,Cape Air,"Augusta State Airport; Augusta, United States",9K7608,CNA,Northeast,32,0.42
+11.06,Southwest Airlines,"Denver International Airport; Denver, United States",WN6490,73W,Northeast,32,0.55
+11.17,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K3414,CNA,Northeast,32,0.31
+11.38,Finnair,"London Heathrow Airport; London, United Kingdom",AY4161,744,Northeast,32,0.21
+11.49,TAP Portugal,"Humberto Delgado Airport (Lisbon Portela Airport); Lisbon, Portugal",TP2784,313,Northeast,32,0.38
+11.6,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN1778,717,Northeast,32,1.77
+11.7,JetBlue Airways,"William P Hobby Airport; Houston, United States",B61347,E90,Northeast,32,1.1
+12.18,Delta Air Lines,"Richmond International Airport; Richmond, United States",DL7504,CR7,Northeast,32,0.21
+12.34,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX5020,333,Northeast,32,0.58
+12.49,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC1063,DH1,Northeast,32,0.09
+12.65,Alaska Airlines,"San Diego International Airport; San Diego, United States",AS650,73H,Northeast,32,0.19
+12.96,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL2049,767,Northeast,32,0.4
+13.12,Cape Air,"Hancock County-Bar Harbor Airport; Bar Harbor, United States",9K2776,CNA,Northeast,32,1.33
+13.59,KLM Royal Dutch Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",KL387,319,Northeast,32,0.88
+14.68,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL2622,332,Northeast,32,0.29
+14.84,Alaska Airlines,"Portland International Airport; Portland, United States",AS4172,73H,Northeast,32,0.11
+14.99,American Airlines,"La Guardia Airport; New York, United States",AA4766,319,Northeast,32,0.33
+15.15,JetBlue Airways,"Washington Dulles International Airport; Washington, United States",B65033,E90,Northeast,32,0.01
+15.3,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B64119,320,Northeast,32,0.19
+15.77,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B62377,320,Northeast,32,0.5
+17.33,American Airlines,"La Guardia Airport; New York, United States",AA1913,E90,Northeast,32,0.75
+17.8,JetBlue Airways,"Pittsburgh International Airport; Pittsburgh, United States",B62667,E90,Northeast,32,0.13
+18.11,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA3744,738,Northeast,32,0.16
+18.69,Air France,"Charles de Gaulle International Airport; Paris, France",AF5299,744,Northeast,32,0.52
+18.81,American Airlines,"La Guardia Airport; New York, United States",AA4665,319,Northeast,32,0.05
+19.15,United Airlines,"Denver International Airport; Denver, United States",UA7864,752,Northeast,32,0.09
+19.27,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN9195,73W,Northeast,32,0.55
+19.38,Sun Country Airlines,"Minneapolis-St Paul International/Wold-Chamberlain Airport; Minneapolis, United States",SY7508,738,Northeast,32,0.41
+19.5,Cape Air,"Knox County Regional Airport; Rockland, United States",9K8817,CNA,Northeast,32,0.62
+19.62,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL2910,767,Northeast,32,0.71
+19.73,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC1799,DH1,Northeast,32,0.44
+20.42,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K2801,CNA,Northeast,32,0.92
+20.77,American Airlines,"Portland International Airport; Portland, United States",AA5100,737,Northeast,32,0.06
+20.89,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA263,DH1,Northeast,32,0.23
+21.0,JetBlue Airways,"McCarran International Airport; Las Vegas, United States",B62201,320,Northeast,32,0.43
+21.12,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN473,73W,Northeast,32,0.3
+21.35,Iberia Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",IB3904,333,Northeast,32,0.08
+21.58,TACV,"Praia International Airport; Praia, Santiago Island, Cape Verde",VR2388,752,Northeast,32,0.53
+22.27,American Airlines,"Miami International Airport; Miami, United States",AA8499,738,Northeast,32,0.26
+22.62,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B6241,E90,Northeast,32,1.73
+22.85,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K1090,CNA,Northeast,32,1.17
+22.97,AeroMéxico,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AM8308,738,Northeast,32,0.01
+23.31,Delta Air Lines,"Cancún International Airport; Cancun, Mexico",DL6432,757,Northeast,32,0.04
+23.78,Cape Air,"Rutland - Southern Vermont Regional Airport; Rutland, United States",9K2009,CNA,Northeast,32,0.51
+23.89,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA7177,DH3,Northeast,32,0.33
+0.04,United Airlines,"Frankfurt am Main Airport; Frankfurt, Germany",UA8819,346,Southeast,4R,0.4
+0.16,Delta Air Lines,"Richmond International Airport; Richmond, United States",DL1859,CR7,Southeast,4R,0.31
+0.18,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL6758,767,Southeast,4R,0.38
+0.22,Porter Airlines,"Billy Bishop Toronto City Centre Airport; Toronto, Canada",PD2675,DH4,Southeast,4R,0.88
+0.24,Delta Air Lines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",DL8506,320,Southeast,4R,0.23
+0.27,United Airlines,"Cleveland Hopkins International Airport; Cleveland, United States",UA3937,319,Southeast,4R,0.78
+0.31,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA5791,319,Southeast,4R,0.19
+0.33,JetBlue Airways,"Ronald Reagan Washington National Airport; Washington, United States",B67281,320,Southeast,4R,0.03
+0.36,JetBlue Airways,"Savannah Hilton Head International Airport; Savannah, United States",B69966,E90,Southeast,4R,0.38
+0.42,JetBlue Airways,"Philadelphia International Airport; Philadelphia, United States",B63514,E90,Southeast,4R,0.82
+0.51,JetBlue Airways,"San Diego International Airport; San Diego, United States",B61790,320,Southeast,4R,0.2
+0.6,United Airlines,"Denver International Airport; Denver, United States",UA8531,739,Southeast,4R,0.99
+0.67,Air France,"London Heathrow Airport; London, United Kingdom",AF7795,764,Southeast,4R,0.32
+0.69,Cape Air,"Martha's Vineyard Airport; Vineyard Haven MA, United States",9K6682,CNA,Southeast,4R,0.03
+0.76,United Airlines,"Zürich Airport; Zurich, Switzerland",UA6007,333,Southeast,4R,0.13
+0.78,Air Canada,"Halifax / Stanfield International Airport; Halifax, Canada",AC1991,CRJ,Southeast,4R,0.96
+0.84,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA3329,CRJ,Southeast,4R,0.3
+0.98,Alaska Airlines,"Seattle Tacoma International Airport; Seattle, United States",AS2966,73H,Southeast,4R,0.1
+1.0,JetBlue Airways,"John F Kennedy International Airport; New York, United States",B66784,E90,Southeast,4R,0.16
+1.02,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ6182,330,Southeast,4R,0.57
+1.04,Alitalia,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AZ1352,757,Southeast,4R,1.89
+1.07,JetBlue Airways,"Austin Bergstrom International Airport; Austin, United States",B63883,E90,Southeast,4R,1.18
+1.09,JetBlue Airways,"Richmond International Airport; Richmond, United States",B65795,E90,Southeast,4R,0.84
+1.16,American Airlines,"Richmond International Airport; Richmond, United States",AA7392,CRJ,Southeast,4R,0.92
+1.18,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA4651,757,Southeast,4R,1.21
+1.22,Delta Air Lines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",DL320,333,Southeast,4R,0.02
+1.27,Finnair,"London Heathrow Airport; London, United Kingdom",AY1156,777,Southeast,4R,0.03
+1.31,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B67477,E90,Southeast,4R,0.2
+1.36,Southwest Airlines,"St Louis Lambert International Airport; St. Louis, United States",WN8319,73C,Southeast,4R,0.91
+1.38,Iberia Airlines,"London Heathrow Airport; London, United Kingdom",IB9003,777,Southeast,4R,0.23
+1.44,American Airlines,"Miami International Airport; Miami, United States",AA5651,757,Southeast,4R,0.11
+1.47,Cape Air,"Hancock County-Bar Harbor Airport; Bar Harbor, United States",9K6402,CNA,Southeast,4R,0.6
+1.53,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN3627,717,Southeast,4R,0.21
+1.64,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN5786,73W,Southeast,4R,0.34
+1.69,American Airlines,"London Heathrow Airport; London, United Kingdom",AA8034,744,Southeast,4R,0.07
+1.78,JetBlue Airways,"Tampa International Airport; Tampa, United States",B67320,320,Southeast,4R,0.15
+1.8,Alaska Airlines,"Portland International Airport; Portland, United States",AS8129,73H,Southeast,4R,0.18
+1.82,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA7768,321,Southeast,4R,0.4
+1.84,United Airlines,"Munich Airport; Munich, Germany",UA7913,333,Southeast,4R,0.1
+1.87,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL7761,E75,Southeast,4R,0.31
+2.0,British Airways,"London Heathrow Airport; London, United Kingdom",BA8781,333,Southeast,4R,0.52
+2.02,American Airlines,"Richmond International Airport; Richmond, United States",AA2651,CRJ,Southeast,4R,0.07
+2.04,Japan Airlines Domestic,"Narita International Airport; Tokyo, Japan",JL3466,788,Southeast,4R,0.12
+2.07,JetBlue Airways,"Southwest Florida International Airport; Fort Myers, United States",B67702,320,Southeast,4R,0.65
+2.11,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL7307,73H,Southeast,4R,0.22
+2.16,Aer Lingus,"Dublin Airport; Dublin, Ireland",EI1619,332,Southeast,4R,0.2
+2.18,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL572,320,Southeast,4R,0.46
+2.22,Alaska Airlines,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",AS6596,SF3,Southeast,4R,0.37
+2.27,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA8677,757,Southeast,4R,0.03
+2.31,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN33,73W,Southeast,4R,0.48
+2.33,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN5174,73C,Southeast,4R,0.21
+2.35,Alitalia,"Charles de Gaulle International Airport; Paris, France",AZ6761,744,Southeast,4R,0.13
+2.4,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B62508,320,Southeast,4R,0.37
+2.51,British Airways,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",BA7243,333,Southeast,4R,0.01
+2.6,United Airlines,"Chicago O'Hare International Airport; Chicago, United States",UA1118,739,Southeast,4R,0.14
+2.62,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL2475,752,Southeast,4R,0.25
+2.64,Southwest Airlines,"Denver International Airport; Denver, United States",WN1399,73W,Southeast,4R,0.03
+2.69,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF2197,757,Southeast,4R,0.02
+2.75,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI5886,757,Southeast,4R,0.48
+2.78,Air Canada,"Lester B. Pearson International Airport; Toronto, Canada",AC5935,E90,Southeast,4R,0.67
+2.8,Alaska Airlines,"Portland International Airport; Portland, United States",AS9744,73H,Southeast,4R,0.23
+2.82,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC2933,DH1,Southeast,4R,0.38
+2.84,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA2751,738,Southeast,4R,0.32
+2.87,Alaska Airlines,"Plattsburgh International Airport; Plattsburgh, United States",AS2394,SF3,Southeast,4R,0.05
+2.93,JetBlue Airways,"Detroit Metropolitan Wayne County Airport; Detroit, United States",B66014,E90,Southeast,4R,0.17
+2.95,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B64784,320,Southeast,4R,0.61
+3.0,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA1494,E90,Southeast,4R,2.02
+3.02,AeroMéxico,"Cancún International Airport; Cancun, Mexico",AM2545,757,Southeast,4R,0.74
+3.07,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B67324,320,Southeast,4R,0.23
+3.09,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA6970,DH1,Southeast,4R,0.02
+3.11,JetBlue Airways,"Austin Bergstrom International Airport; Austin, United States",B64089,E90,Southeast,4R,0.6
+3.15,JetBlue Airways,"Richmond International Airport; Richmond, United States",B66770,E90,Southeast,4R,0.2
+3.2,JetBlue Airways,"McCarran International Airport; Las Vegas, United States",B67355,320,Southeast,4R,0.13
+3.24,JetBlue Airways,"Orlando International Airport; Orlando, United States",B62108,320,Southeast,4R,0.26
+3.29,United Airlines,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",UA2497,DH3,Southeast,4R,0.73
+3.31,Air France,"Charles de Gaulle International Airport; Paris, France",AF2768,744,Southeast,4R,0.02
+3.38,Copa Airlines,"Tocumen International Airport; Panama City, Panama",CM8386,73G,Southeast,4R,0.9
+3.42,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA1146,DH1,Southeast,4R,2.58
+3.44,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK7650,319,Southeast,4R,1.44
+3.49,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA9986,739,Southeast,4R,0.37
+3.51,JetBlue Airways,"Philadelphia International Airport; Philadelphia, United States",B62279,E90,Southeast,4R,0.75
+3.53,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA8220,739,Southeast,4R,0.12
+3.55,Air Canada,"Halifax / Stanfield International Airport; Halifax, Canada",AC3297,CRJ,Southeast,4R,1.07
+3.69,Delta Air Lines,"Cancún International Airport; Cancun, Mexico",DL1362,757,Southeast,4R,0.1
+3.75,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF7108,320,Southeast,4R,0.01
+3.78,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL6273,757,Southeast,4R,0.58
+3.82,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN6289,73W,Southeast,4R,0.44
+3.84,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B62500,320,Southeast,4R,0.2
+3.89,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K8876,CNA,Southeast,4R,0.99
+3.93,Delta Air Lines,"Cancún International Airport; Cancun, Mexico",DL4496,757,Southeast,4R,2.29
+3.98,Delta Air Lines,"Richmond International Airport; Richmond, United States",DL7760,CR7,Southeast,4R,0.4
+3.95,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B63360,320,Southeast,4L,1.81
+4.0,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA4461,753,Southeast,4R,0.17
+4.02,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL9107,332,Southeast,4R,1.04
+4.09,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL2614,330,Southeast,4R,0.13
+4.11,Iberia Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",IB2060,333,Southeast,4R,0.53
+4.2,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL5048,330,Southeast,4R,0.99
+4.29,British Airways,"London Heathrow Airport; London, United Kingdom",BA6008,777,Southeast,4R,0.09
+4.31,SATA International,"Humberto Delgado Airport (Lisbon Portela Airport); Lisbon, Portugal",S49066,313,Southeast,4R,0.23
+4.33,British Airways,"London Heathrow Airport; London, United Kingdom",BA2180,744,Southeast,4R,0.16
+4.4,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN8936,73W,Southeast,4R,0.01
+4.44,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX5629,333,Southeast,4R,0.07
+4.47,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI5806,75W,Southeast,4R,0.81
+4.49,JetBlue Airways,"Orlando International Airport; Orlando, United States",B65575,320,Southeast,4R,0.32
+4.53,Sun Country Airlines,"Minneapolis-St Paul International/Wold-Chamberlain Airport; Minneapolis, United States",SY9719,738,Southeast,4R,0.46
+4.55,Spirit Airlines,"Atlantic City International Airport; Atlantic City, United States",NK6796,319,Southeast,4R,0.61
+4.58,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL7740,73H,Southeast,4R,2.08
+4.64,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN8739,717,Southeast,4R,0.26
+4.71,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI3012,757,Southeast,4R,0.0
+4.73,Southwest Airlines,"St Louis Lambert International Airport; St. Louis, United States",WN9120,73C,Southeast,4R,0.61
+4.8,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA149,319,Southeast,4R,0.03
+4.82,Delta Air Lines,"Lynden Pindling International Airport; Nassau, Bahamas",DL6071,E75,Southeast,4R,0.66
+4.91,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL2468,319,Southeast,4R,1.53
+4.93,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA5208,E90,Southeast,4R,0.5
+4.98,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B67355,320,Southeast,4R,0.02
+5.0,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN9626,73W,Southeast,4R,0.2
+5.02,TAP Portugal,"João Paulo II Airport; Ponta Delgada, Portugal",TP4542,313,Southeast,4R,0.7
+5.04,Lufthansa Cargo,"Frankfurt am Main Airport; Frankfurt, Germany",LH2036,346,Southeast,4R,0.07
+5.2,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B62127,E90,Southeast,4R,0.53
+5.24,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B63274,E90,Southeast,4R,1.21
+5.33,British Airways,"London Heathrow Airport; London, United Kingdom",BA6577,744,Southeast,4R,1.54
+5.35,Cape Air,"Martha's Vineyard Airport; Vineyard Haven MA, United States",9K6528,CNA,Southeast,4R,0.5
+5.44,American Airlines,"Narita International Airport; Tokyo, Japan",AA3892,787,Southeast,4R,0.31
+5.47,Delta Air Lines,"Los Angeles International Airport; Los Angeles, United States",DL3202,73H,Southeast,4R,0.15
+5.49,JetBlue Airways,"Dubai International Airport; Dubai, United Arab Emirates",B6618,77L,Southeast,4R,1.29
+5.51,Delta Air Lines,"Myrtle Beach International Airport; Myrtle Beach, United States",DL3134,E75,Southeast,4R,0.18
+5.53,United Airlines,"Washington Dulles International Airport; Washington, United States",UA8022,739,Southeast,4R,0.22
+5.58,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B65256,320,Southeast,4R,0.48
+5.6,JetBlue Airways,"Jacksonville International Airport; Jacksonville, United States",B61264,E90,Southeast,4R,0.06
+5.67,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA7775,752,Southeast,4R,0.4
+5.71,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B66061,320,Southeast,4R,0.25
+5.75,American Airlines,"Cancún International Airport; Cancun, Mexico",AA7752,319,Southeast,4R,1.03
+5.78,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN4915,717,Southeast,4R,0.2
+5.8,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA2347,CRJ,Southeast,4R,0.21
+5.82,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B63654,320,Southeast,4R,0.01
+5.87,Alaska Airlines,"Long Island Mac Arthur Airport; Islip, United States",AS7037,SF3,Southeast,4R,1.06
+5.89,British Airways,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",BA3944,333,Southeast,4R,0.35
+5.91,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL3354,320,Southeast,4R,0.02
+5.95,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS844,SF3,Southeast,4R,0.41
+5.98,Virgin Atlantic Airways,"London Heathrow Airport; London, United Kingdom",VS8589,764,Southeast,4R,0.4
+6.02,JetBlue Airways,"Jacksonville International Airport; Jacksonville, United States",B67215,E90,Southeast,4R,0.46
+6.13,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA8124,CRJ,Southeast,4R,1.09
+6.45,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA6812,E90,Southeast,4R,0.4
+6.56,JetBlue Airways,"Norman Y. Mineta San Jose International Airport; San Jose, United States",B68067,320,Southeast,4R,0.32
+6.66,American Airlines,"Richmond International Airport; Richmond, United States",AA3206,CRJ,Southeast,4R,0.68
+6.77,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA3334,739,Southeast,4R,0.33
+6.88,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL5205,320,Southeast,4R,1.05
+7.09,British Airways,"London Heathrow Airport; London, United Kingdom",BA6809,777,Southeast,4R,0.39
+7.41,Delta Air Lines,"Orlando International Airport; Orlando, United States",DL8260,320,Southeast,4R,1.05
+7.63,JetBlue Airways,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",B67809,E90,Southeast,4R,0.57
+7.74,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI3132,75W,Southeast,4R,0.04
+7.84,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA7687,738,Southeast,4R,0.73
+8.17,JetBlue Airways,"Tampa International Airport; Tampa, United States",B62220,320,Southeast,4R,0.4
+8.27,Alitalia,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AZ2531,M90,Southeast,4R,1.08
+8.38,JetBlue Airways,"Chicago O'Hare International Airport; Chicago, United States",B68342,E90,Southeast,4R,1.09
+8.49,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL3322,320,Southeast,4R,0.22
+8.7,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA9183,CRJ,Southeast,4R,1.2
+8.81,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN4907,73W,Southeast,4R,0.25
+9.24,United Airlines,"Newark Liberty International Airport; Newark, United States",UA9403,319,Southeast,4R,0.77
+9.67,JetBlue Airways,"McCarran International Airport; Las Vegas, United States",B67649,320,Southeast,4R,0.13
+10.31,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS6865,319,Southeast,4R,0.11
+10.42,Delta Air Lines,"Myrtle Beach International Airport; Myrtle Beach, United States",DL5175,E75,Southeast,4R,0.17
+10.52,Alitalia,"Charles de Gaulle International Airport; Paris, France",AZ3951,744,Southeast,4R,0.57
+10.63,Cape Air,"Knox County Regional Airport; Rockland, United States",9K4366,CNA,Southeast,4R,0.56
+10.85,Spirit Airlines,"Myrtle Beach International Airport; Myrtle Beach, United States",NK410,319,Southeast,4R,0.6
+10.95,Cape Air,"Provincetown Municipal Airport; Provincetown, United States",9K2472,CNA,Southeast,4R,0.71
+11.06,Air Canada,"Lester B. Pearson International Airport; Toronto, Canada",AC2283,E90,Southeast,4R,0.02
+11.38,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA2123,DH1,Southeast,4R,0.05
+11.6,Delta Air Lines,"Jacksonville International Airport; Jacksonville, United States",DL9555,CR9,Southeast,4R,0.15
+11.92,Cape Air,"Provincetown Municipal Airport; Provincetown, United States",9K3859,CNA,Southeast,4R,0.14
+12.18,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL788,330,Southeast,4R,0.04
+12.34,Delta Air Lines,"John Glenn Columbus International Airport; Columbus, United States",DL9172,ERJ,Southeast,4R,0.54
+12.49,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K622,CNA,Southeast,4R,0.03
+12.65,Cape Air,"Albany International Airport; Albany, United States",9K7724,CNA,Southeast,4R,0.24
+12.81,British Airways,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",BA8709,333,Southeast,4R,1.17
+13.27,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN7095,733,Southeast,4R,0.67
+13.59,Delta Air Lines,"La Guardia Airport; New York, United States",DL4578,E75,Southeast,4R,0.51
+13.74,Japan Airlines Domestic,"Narita International Airport; Tokyo, Japan",JL5218,788,Southeast,4R,0.04
+13.9,JetBlue Airways,"William P Hobby Airport; Houston, United States",B67849,E90,Southeast,4R,0.15
+14.05,JetBlue Airways,"Charleston Air Force Base-International Airport; Charleston, United States",B68095,E90,Southeast,4R,0.21
+14.21,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS337,738,Southeast,4R,0.32
+14.68,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS8294,738,Southeast,4R,0.75
+14.84,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN6440,717,Southeast,4R,0.04
+15.15,United Airlines,"Newark Liberty International Airport; Newark, United States",UA2283,73G,Southeast,4R,0.25
+15.3,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN9505,73W,Southeast,4R,0.57
+15.93,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B65939,E90,Southeast,4R,0.63
+16.08,Aer Lingus,"Dublin Airport; Dublin, Ireland",EI3949,332,Southeast,4R,0.16
+16.24,Lufthansa Cargo,"Frankfurt am Main Airport; Frankfurt, Germany",LH7153,346,Southeast,4R,0.12
+16.55,JetBlue Airways,"Portland International Airport; Portland, United States",B61229,320,Southeast,4R,0.1
+17.49,JetBlue Airways,"Newark Liberty International Airport; Newark, United States",B615,E90,Southeast,4R,0.1
+17.65,TACV,"Praia International Airport; Praia, Santiago Island, Cape Verde",VR6661,752,Southeast,4R,0.06
+17.96,Delta Air Lines,"John Glenn Columbus International Airport; Columbus, United States",DL3338,ERJ,Southeast,4R,1.38
+18.23,Delta Air Lines,"John Glenn Columbus International Airport; Columbus, United States",DL1471,ERJ,Southeast,4R,1.26
+18.34,JetBlue Airways,"Portland International Airport; Portland, United States",B67130,320,Southeast,4R,0.16
+18.69,Japan Airlines Domestic,"Narita International Airport; Tokyo, Japan",JL7091,788,Southeast,4R,0.34
+18.92,Cape Air,"Albany International Airport; Albany, United States",9K2389,CNA,Southeast,4R,1.02
+19.04,JetBlue Airways,"Tampa International Airport; Tampa, United States",B67698,320,Southeast,4R,0.59
+19.15,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS6202,SF3,Southeast,4R,0.13
+19.27,JetBlue Airways,"Jacksonville International Airport; Jacksonville, United States",B66284,E90,Southeast,4R,0.0
+19.5,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL481,332,Southeast,4R,0.01
+20.19,Southwest Airlines,"St Louis Lambert International Airport; St. Louis, United States",WN3545,73W,Southeast,4R,0.48
+20.42,British Airways,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",BA8785,333,Southeast,4R,0.14
+20.54,Alaska Airlines,"Portland International Airport; Portland, United States",AS7149,73H,Southeast,4R,0.07
+20.66,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL1046,330,Southeast,4R,0.21
+21.12,Peninsula Airways,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",KS1789,SF3,Southeast,4R,0.16
+21.23,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA5316,E70,Southeast,4R,0.63
+21.46,JetBlue Airways,"Richmond International Airport; Richmond, United States",B65076,E90,Southeast,4R,1.91
+21.58,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA9082,757,Southeast,4R,0.68
+21.93,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN1793,73W,Southeast,4R,0.4
+22.04,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA2501,E70,Southeast,4R,0.01
+22.62,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA9513,CRJ,Southeast,4R,0.12
+22.85,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA7806,319,Southeast,4R,0.61
+22.97,Alaska Airlines,"Plattsburgh International Airport; Plattsburgh, United States",AS7845,SF3,Southeast,4R,0.66
+23.2,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA9469,E75,Southeast,4R,0.43
+23.31,JetBlue Airways,"John F Kennedy International Airport; New York, United States",B63027,E90,Southeast,4R,0.11
+23.43,United Airlines,"Denver International Airport; Denver, United States",UA8860,739,Southeast,4R,0.36
+23.54,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL406,330,Southeast,4R,0.39
+23.66,American Airlines,"Cancún International Airport; Cancun, Mexico",AA7339,319,Southeast,4R,0.56
+23.78,Southwest Airlines,"St Louis Lambert International Airport; St. Louis, United States",WN9730,73W,Southeast,4R,0.56
+23.89,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS8856,SF3,Southeast,4R,0.11
+0.02,JetBlue Airways,"Lynden Pindling International Airport; Nassau, Bahamas",B64714,E90,Northwest,9,0.07
+0.04,SATA International,"João Paulo II Airport; Ponta Delgada, Portugal",S46112,313,Northwest,9,0.21
+0.16,Delta Air Lines,"La Guardia Airport; New York, United States",DL8093,E75,Northwest,9,0.63
+0.18,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA2483,738,Northwest,9,0.19
+0.22,JetBlue Airways,"Richmond International Airport; Richmond, United States",B66594,E90,Northwest,9,1.24
+0.31,American Airlines,"Portland International Airport; Portland, United States",AA7379,737,Northwest,9,0.89
+0.47,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K5762,CNA,Northwest,9,0.34
+0.49,JetBlue Airways,"Pittsburgh International Airport; Pittsburgh, United States",B68700,E90,Northwest,9,0.36
+0.51,JetBlue Airways,"Lynden Pindling International Airport; Nassau, Bahamas",B62133,E90,Northwest,9,0.28
+0.53,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA9176,738,Northwest,9,0.16
+0.56,Cape Air,"Provincetown Municipal Airport; Provincetown, United States",9K4195,CNA,Northwest,9,0.23
+0.58,Delta Air Lines,"Los Angeles International Airport; Los Angeles, United States",DL1860,73H,Northwest,9,0.42
+0.6,American Airlines,"London Heathrow Airport; London, United Kingdom",AA5376,744,Northwest,9,0.7
+0.62,Delta Air Lines,"John Glenn Columbus International Airport; Columbus, United States",DL1491,ERJ,Northwest,9,0.02
+0.73,JetBlue Airways,"Seattle Tacoma International Airport; Seattle, United States",B67097,320,Northwest,9,0.08
+0.78,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B64289,320,Northwest,9,1.26
+0.8,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B62591,320,Northwest,9,0.26
+0.82,AeroMéxico,"Cancún International Airport; Cancun, Mexico",AM7871,757,Northwest,9,2.31
+0.84,JetBlue Airways,"Jacksonville International Airport; Jacksonville, United States",B69095,E90,Northwest,9,1.77
+0.87,JetBlue Airways,"Louis Armstrong New Orleans International Airport; New Orleans, United States",B69389,E90,Northwest,9,0.78
+0.91,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ1175,332,Northwest,9,0.38
+0.93,American Airlines,"La Guardia Airport; New York, United States",AA7572,E90,Northwest,9,0.53
+1.0,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH1900,333,Northwest,9,0.3
+1.02,JetBlue Airways,"Norman Y. Mineta San Jose International Airport; San Jose, United States",B66847,320,Northwest,9,0.34
+1.04,Delta Air Lines,"Los Angeles International Airport; Los Angeles, United States",DL1124,73H,Northwest,9,0.06
+1.09,Alaska Airlines,"Long Island Mac Arthur Airport; Islip, United States",AS8678,SF3,Northwest,9,0.65
+1.11,United Airlines,"Tocumen International Airport; Panama City, Panama",UA9009,73G,Northwest,9,0.25
+1.18,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA4193,E90,Northwest,9,0.16
+1.2,Delta Air Lines,"Raleigh Durham International Airport; Raleigh-durham, United States",DL7625,CR7,Northwest,9,0.58
+1.22,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN3101,717,Northwest,9,0.24
+1.24,JetBlue Airways,"Tampa International Airport; Tampa, United States",B65454,320,Northwest,9,0.27
+1.27,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B69873,E90,Northwest,9,0.11
+1.31,British Airways,"London Heathrow Airport; London, United Kingdom",BA8986,333,Northwest,9,0.2
+1.33,Alaska Airlines,"Portland International Airport; Portland, United States",AS3891,73H,Northwest,9,0.07
+1.36,JetBlue Airways,"Newark Liberty International Airport; Newark, United States",B61496,E90,Northwest,9,0.02
+1.38,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN9821,73C,Northwest,9,0.58
+1.49,Cape Air,"Barnstable Municipal Boardman Polando Field; Barnstable, United States",9K3366,CNA,Northwest,9,0.42
+1.6,Delta Air Lines,"Jacksonville International Airport; Jacksonville, United States",DL6296,CR9,Northwest,9,1.21
+1.67,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B67485,320,Northwest,9,1.29
+1.73,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA6821,DH8,Northwest,9,1.27
+1.91,Alaska Airlines,"Portland International Airport; Portland, United States",AS9024,73H,Northwest,9,0.04
+1.96,Delta Air Lines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",DL1538,757,Northwest,9,1.17
+1.98,American Airlines,"Cancún International Airport; Cancun, Mexico",AA1767,319,Northwest,9,1.48
+2.0,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K6868,CNA,Northwest,9,0.59
+2.02,JetBlue Airways,"Phoenix Sky Harbor International Airport; Phoenix, United States",B63770,320,Northwest,9,0.89
+2.04,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI3550,757,Northwest,9,0.9
+2.07,JetBlue Airways,"Washington Dulles International Airport; Washington, United States",B66438,E90,Northwest,9,0.01
+2.09,American Airlines,"London Heathrow Airport; London, United Kingdom",AA6935,777,Northwest,9,0.66
+2.13,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN3533,73W,Northwest,9,0.06
+2.2,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN626,73W,Northwest,9,0.96
+2.31,JetBlue Airways,"Dubai International Airport; Dubai, United Arab Emirates",B61241,77L,Northwest,9,1.39
+2.4,Iberia Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",IB5687,333,Northwest,9,1.73
+2.42,JetBlue Airways,"Norman Y. Mineta San Jose International Airport; San Jose, United States",B61942,320,Northwest,9,1.48
+2.44,JetBlue Airways,"Washington Dulles International Airport; Washington, United States",B65582,E90,Northwest,9,0.53
+2.51,American Airlines,"La Guardia Airport; New York, United States",AA6196,319,Northwest,9,0.69
+2.58,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL939,330,Northwest,9,1.65
+2.6,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF6056,757,Northwest,9,0.42
+2.62,Cape Air,"Hancock County-Bar Harbor Airport; Bar Harbor, United States",9K27,CNA,Northwest,9,1.09
+2.64,JetBlue Airways,"Los Angeles International Airport; Los Angeles, United States",B69964,320,Northwest,9,0.28
+2.67,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN5378,717,Northwest,9,1.75
+2.69,JetBlue Airways,"Charleston Air Force Base-International Airport; Charleston, United States",B64884,E90,Northwest,9,0.47
+2.71,Delta Air Lines,"Orlando International Airport; Orlando, United States",DL6834,M88,Northwest,9,2.2
+2.8,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL7070,330,Northwest,9,0.44
+2.87,JetBlue Airways,"Portland International Airport; Portland, United States",B69241,320,Northwest,9,0.19
+2.93,JetBlue Airways,"Orlando International Airport; Orlando, United States",B64756,E90,Northwest,9,0.69
+2.95,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B69224,320,Northwest,9,0.2
+3.02,American Airlines,"Portland International Airport; Portland, United States",AA9980,737,Northwest,9,0.19
+3.04,Delta Air Lines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",DL7683,,Northwest,9,1.62
+3.07,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA7491,CRJ,Northwest,9,1.59
+3.11,TAP Portugal,"João Paulo II Airport; Ponta Delgada, Portugal",TP9596,313,Northwest,9,0.2
+3.15,JetBlue Airways,"Charlotte Douglas International Airport; Charlotte, United States",B64817,E90,Northwest,9,0.17
+3.18,JetBlue Airways,"Raleigh Durham International Airport; Raleigh-durham, United States",B62058,E90,Northwest,9,0.31
+3.2,JetBlue Airways,"Ronald Reagan Washington National Airport; Washington, United States",B62180,320,Northwest,9,0.75
+3.24,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC242,DH1,Northwest,9,0.37
+3.29,American Airlines,"La Guardia Airport; New York, United States",AA5719,319,Northwest,9,0.27
+3.31,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA4904,E70,Northwest,9,0.67
+3.33,JetBlue Airways,"Detroit Metropolitan Wayne County Airport; Detroit, United States",B67932,E90,Northwest,9,0.06
+3.38,JetBlue Airways,"Seattle Tacoma International Airport; Seattle, United States",B63073,320,Northwest,9,1.32
+3.4,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA3858,CRJ,Northwest,9,0.13
+3.49,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN2032,73W,Northwest,9,0.34
+3.55,British Airways,"London Heathrow Airport; London, United Kingdom",BA6104,744,Northwest,9,0.0
+3.58,TAP Portugal,"João Paulo II Airport; Ponta Delgada, Portugal",TP7859,313,Northwest,9,0.49
+3.6,JetBlue Airways,"Cibao International Airport; Santiago, Dominican Republic",B68974,320,Northwest,9,1.19
+3.69,Air France,"Charles de Gaulle International Airport; Paris, France",AF9937,744,Northwest,9,0.49
+3.78,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B61850,320,Northwest,9,0.19
+3.84,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA9109,738,Northwest,9,1.29
+3.89,JetBlue Airways,"Princess Juliana International Airport; Philipsburg, Netherlands Antilles",B66856,320,Northwest,9,0.66
+3.91,Peninsula Airways,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",KS9977,SF3,Northwest,9,0.18
+3.98,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ3032,332,Northwest,9,0.08
+4.02,British Airways,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",BA552,333,Northwest,9,0.38
+4.04,Alaska Airlines,"Plattsburgh International Airport; Plattsburgh, United States",AS1551,SF3,Northwest,9,0.13
+4.09,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI8960,757,Northwest,9,0.04
+4.11,Finnair,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AY1518,333,Northwest,9,0.95
+4.13,American Airlines,"San Diego International Airport; San Diego, United States",AA8895,737,Northwest,9,0.82
+4.15,Sun Country Airlines,"Minneapolis-St Paul International/Wold-Chamberlain Airport; Minneapolis, United States",SY7791,738,Northwest,9,0.15
+4.18,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL7093,330,Northwest,9,0.78
+4.2,Delta Air Lines,"Charleston Air Force Base-International Airport; Charleston, United States",DL2525,CR9,Northwest,9,0.9
+4.27,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL2502,73H,Northwest,9,0.2
+4.29,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL7164,73H,Northwest,9,0.7
+4.31,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN8777,73W,Northwest,9,0.73
+4.33,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA1323,319,Northwest,9,0.69
+4.35,JetBlue Airways,"Chicago O'Hare International Airport; Chicago, United States",B69082,E90,Northwest,9,0.64
+4.38,KLM Royal Dutch Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",KL6796,319,Northwest,9,1.14
+4.4,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA3889,CRJ,Northwest,9,0.49
+4.47,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL3258,319,Northwest,9,1.1
+4.51,JetBlue Airways,"Princess Juliana International Airport; Philipsburg, Netherlands Antilles",B67636,320,Northwest,9,0.23
+4.55,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH1979,333,Northwest,9,0.11
+4.6,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA3994,CRJ,Northwest,9,0.03
+4.62,JetBlue Airways,"Louis Armstrong New Orleans International Airport; New Orleans, United States",B67031,E90,Northwest,9,1.58
+4.67,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA7497,DH1,Northwest,9,1.49
+4.69,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA8756,738,Northwest,9,0.88
+4.71,Air Canada,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",AC4854,CRJ,Northwest,9,0.18
+4.75,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K7382,CNA,Northwest,9,0.14
+4.82,United Airlines,"Chicago O'Hare International Airport; Chicago, United States",UA1017,739,Northwest,9,0.31
+4.84,AeroMéxico,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AM5801,320,Northwest,9,0.29
+4.87,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA4572,E90,Northwest,9,0.91
+4.89,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA1154,DH8,Northwest,9,0.6
+4.91,Alaska Airlines,"Portland International Airport; Portland, United States",AS6427,73H,Northwest,9,0.16
+4.93,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN4815,73W,Northwest,9,0.26
+5.0,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA3334,738,Northwest,9,0.9
+5.02,American Airlines,"Miami International Airport; Miami, United States",AA5219,757,Northwest,9,0.68
+5.04,Cape Air,"Hancock County-Bar Harbor Airport; Bar Harbor, United States",9K5823,CNA,Northwest,9,0.24
+5.07,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL6488,320,Northwest,9,0.14
+5.13,Delta Air Lines,"Charleston Air Force Base-International Airport; Charleston, United States",DL8567,CR9,Northwest,9,0.12
+5.24,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA5375,738,Northwest,9,0.91
+5.29,American Airlines,"Miami International Airport; Miami, United States",AA3342,757,Northwest,9,0.62
+5.31,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA5318,738,Northwest,9,0.07
+5.33,Delta Air Lines,"Lynden Pindling International Airport; Nassau, Bahamas",DL5397,E75,Northwest,9,0.8
+5.35,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA4348,320,Northwest,9,0.03
+5.38,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN7905,733,Northwest,9,1.28
+5.4,JetBlue Airways,"San Francisco International Airport; San Francisco, United States",B65240,320,Northwest,9,0.03
+5.44,JetBlue Airways,"McCarran International Airport; Las Vegas, United States",B6152,320,Northwest,9,0.33
+5.58,Spirit Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",NK9787,319,Northwest,9,1.9
+5.6,Lufthansa Cargo,"Frankfurt am Main Airport; Frankfurt, Germany",LH133,346,Northwest,9,0.85
+5.67,Delta Air Lines,"Jacksonville International Airport; Jacksonville, United States",DL1924,CR9,Northwest,9,0.23
+5.8,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA4417,CRJ,Northwest,9,0.76
+5.84,Southwest Airlines,"William P Hobby Airport; Houston, United States",WN5542,73W,Northwest,9,0.68
+5.89,Delta Air Lines,"La Guardia Airport; New York, United States",DL9795,E75,Northwest,9,0.0
+5.91,United Airlines,"Washington Dulles International Airport; Washington, United States",UA3852,738,Northwest,9,2.94
+5.93,Delta Air Lines,"Providenciales Airport; Providenciales, Turks and Caicos Islands",DL5105,320,Northwest,9,2.2
+6.0,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA6561,CRJ,Northwest,9,0.69
+6.24,United Airlines,"Zürich Airport; Zurich, Switzerland",UA2680,333,Northwest,9,0.13
+6.34,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI7945,757,Northwest,9,0.75
+6.66,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK4337,319,Northwest,9,0.66
+6.77,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN5719,73W,Northwest,9,0.79
+7.2,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K5061,CNA,Northwest,9,0.33
+7.31,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA4701,E75,Northwest,9,0.19
+7.41,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA2910,DH8,Northwest,9,0.09
+7.74,American Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AA5432,330,Northwest,9,0.81
+7.84,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI4533,757,Northwest,9,0.27
+8.27,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN3580,73W,Northwest,9,0.73
+8.49,Spirit Airlines,"Atlantic City International Airport; Atlantic City, United States",NK3531,319,Northwest,9,0.28
+8.7,Delta Air Lines,"Charleston Air Force Base-International Airport; Charleston, United States",DL4928,CR9,Northwest,9,0.56
+9.02,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA7788,E75,Northwest,9,0.32
+9.13,Delta Air Lines,"Charleston Air Force Base-International Airport; Charleston, United States",DL1659,CR9,Northwest,9,1.24
+9.24,American Airlines,"Chicago O'Hare International Airport; Chicago, United States",AA5698,738,Northwest,9,0.13
+9.56,JetBlue Airways,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",B65407,E90,Northwest,9,1.17
+9.67,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA5746,738,Northwest,9,0.39
+10.1,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA6158,DH8,Northwest,9,0.24
+10.31,Cape Air,"Hancock County-Bar Harbor Airport; Bar Harbor, United States",9K2760,CNA,Northwest,9,0.49
+10.42,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL9039,73H,Northwest,9,0.74
+10.52,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL1729,320,Northwest,9,0.08
+10.63,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN9754,73W,Northwest,9,0.38
+10.74,Air France,"Charles de Gaulle International Airport; Paris, France",AF9075,744,Northwest,9,0.03
+10.85,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA2580,CRJ,Northwest,9,0.11
+10.95,United Airlines,"Chicago O'Hare International Airport; Chicago, United States",UA2799,739,Northwest,9,0.66
+11.06,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA9478,E75,Northwest,9,0.17
+11.17,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA5383,E90,Northwest,9,0.29
+11.49,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL8808,330,Northwest,9,1.04
+11.92,Air France,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AF8001,757,Northwest,9,0.11
+12.18,JetBlue Airways,"John F Kennedy International Airport; New York, United States",B63020,320,Northwest,9,0.23
+12.49,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA6216,321,Northwest,9,0.34
+12.65,JetBlue Airways,"Denver International Airport; Denver, United States",B64797,320,Northwest,9,0.15
+12.81,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA4415,DH8,Northwest,9,0.05
+12.96,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN2892,73W,Northwest,9,1.72
+13.27,JetBlue Airways,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",B64895,320,Northwest,9,0.19
+13.9,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI4568,757,Northwest,9,0.26
+14.05,Delta Air Lines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",DL7929,,Northwest,9,0.01
+14.21,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA440,DH8,Northwest,9,0.22
+14.37,JetBlue Airways,"Pittsburgh International Airport; Pittsburgh, United States",B64564,E90,Northwest,9,0.46
+14.52,American Airlines,"John F Kennedy International Airport; New York, United States",AA407,738,Northwest,9,0.34
+14.68,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA6699,CRJ,Northwest,9,0.26
+14.84,JetBlue Airways,"Washington Dulles International Airport; Washington, United States",B65152,E90,Northwest,9,0.07
+15.46,JetBlue Airways,"Lynden Pindling International Airport; Nassau, Bahamas",B6708,E90,Northwest,9,0.08
+15.62,JetBlue Airways,"Charlotte Douglas International Airport; Charlotte, United States",B61555,E90,Northwest,9,0.21
+15.77,Delta Air Lines,"Jacksonville International Airport; Jacksonville, United States",DL5830,CR9,Northwest,9,0.13
+15.93,Peninsula Airways,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",KS8376,SF3,Northwest,9,0.3
+16.08,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC3551,DH1,Northwest,9,1.38
+16.24,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA9235,757,Northwest,9,2.29
+16.55,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL3820,767,Northwest,9,0.17
+17.18,American Airlines,"John F Kennedy International Airport; New York, United States",AA528,738,Northwest,9,0.63
+17.33,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K7605,CNA,Northwest,9,0.06
+17.65,JetBlue Airways,"Luis Munoz Marin International Airport; San Juan, Puerto Rico",B63438,320,Northwest,9,0.82
+17.96,American Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AA5735,330,Northwest,9,0.11
+18.11,American Airlines,"Syracuse Hancock International Airport; Syracuse, United States",AA9056,DH3,Northwest,9,0.24
+18.34,JetBlue Airways,"Lynden Pindling International Airport; Nassau, Bahamas",B66959,E90,Northwest,9,0.76
+18.46,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA859,DH8,Northwest,9,0.53
+18.81,Virgin Atlantic Airways,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",VS3844,757,Northwest,9,0.99
+18.92,Virgin Atlantic Airways,"London Heathrow Airport; London, United Kingdom",VS3887,333,Northwest,9,0.58
+19.15,American Airlines,"John F Kennedy International Airport; New York, United States",AA5001,738,Northwest,9,0.79
+19.85,Spirit Airlines,"Chicago O'Hare International Airport; Chicago, United States",NK7808,319,Northwest,9,2.17
+20.08,Cape Air,"Albany International Airport; Albany, United States",9K5533,CNA,Northwest,9,0.18
+20.42,Virgin Atlantic Airways,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",VS629,320,Northwest,9,0.11
+20.54,AeroMéxico,"Cancún International Airport; Cancun, Mexico",AM388,757,Northwest,9,0.46
+20.66,Spirit Airlines,"Myrtle Beach International Airport; Myrtle Beach, United States",NK5212,319,Northwest,9,0.08
+20.77,JetBlue Airways,"Ronald Reagan Washington National Airport; Washington, United States",B63504,320,Northwest,9,0.35
+21.0,American Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",AA385,757,Northwest,9,0.42
+21.35,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN3968,733,Northwest,9,0.13
+21.7,Delta Air Lines,"Charles de Gaulle International Airport; Paris, France",DL1168,752,Northwest,9,0.07
+22.62,JetBlue Airways,"Orlando International Airport; Orlando, United States",B63198,E90,Northwest,9,0.15
+22.97,American Airlines,"Miami International Airport; Miami, United States",AA6953,738,Northwest,9,1.63
+23.31,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA6212,321,Northwest,9,0.02
+23.43,Air France,"London Heathrow Airport; London, United Kingdom",AF990,764,Northwest,9,0.13
+23.54,Delta Air Lines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",DL807,333,Northwest,9,0.02
+23.66,British Airways,"London Heathrow Airport; London, United Kingdom",BA747,777,Northwest,9,0.29
+23.78,American Airlines,"Seattle Tacoma International Airport; Seattle, United States",AA3182,737,Northwest,9,0.24
+23.89,Air France,"London Heathrow Airport; London, United Kingdom",AF5082,764,Northwest,9,1.34
+0.02,JetBlue Airways,"Raleigh Durham International Airport; Raleigh-durham, United States",B64556,E90,Northwest,32,0.17
+0.11,American Airlines,"Richmond International Airport; Richmond, United States",AA7131,CRJ,Northwest,32,0.09
+0.13,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN9016,73W,Northwest,32,0.17
+0.18,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN37,73W,Northwest,32,0.58
+0.22,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS5883,319,Northwest,32,0.05
+0.24,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B61040,320,Northwest,32,0.12
+0.27,JetBlue Airways,"Luis Munoz Marin International Airport; San Juan, Puerto Rico",B68260,320,Northwest,32,0.19
+0.29,British Airways,"London Heathrow Airport; London, United Kingdom",BA8779,777,Northwest,32,0.22
+0.33,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA521,CRJ,Northwest,32,0.36
+0.4,Alaska Airlines,"Plattsburgh International Airport; Plattsburgh, United States",AS276,SF3,Northwest,32,0.1
+0.42,Spirit Airlines,"Atlantic City International Airport; Atlantic City, United States",NK4459,319,Northwest,32,0.06
+0.44,JetBlue Airways,"Jacksonville International Airport; Jacksonville, United States",B65267,E90,Northwest,32,0.07
+0.49,United Airlines,"San Francisco International Airport; San Francisco, United States",UA6632,753,Northwest,32,2.06
+0.53,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL9494,73H,Northwest,32,0.69
+0.6,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA5321,DH1,Northwest,32,0.47
+0.62,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA8954,738,Northwest,32,0.16
+0.67,JetBlue Airways,"Charleston Air Force Base-International Airport; Charleston, United States",B64646,E90,Northwest,32,1.05
+0.69,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL7133,330,Northwest,32,0.34
+0.71,United Airlines,"Dublin Airport; Dublin, Ireland",UA6766,330,Northwest,32,0.37
+0.76,JetBlue Airways,"Long Beach /Daugherty Field/ Airport; Long Beach, United States",B67816,320,Northwest,32,0.67
+0.8,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K958,CNA,Northwest,32,0.32
+0.84,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA4013,CRJ,Northwest,32,0.33
+0.87,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS1103,SF3,Northwest,32,0.36
+1.0,JetBlue Airways,"Princess Juliana International Airport; Philipsburg, Netherlands Antilles",B69083,320,Northwest,32,1.01
+1.04,Peninsula Airways,"Long Island Mac Arthur Airport; Islip, United States",KS2228,SF3,Northwest,32,0.13
+1.09,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA4920,319,Northwest,32,0.35
+1.18,Delta Air Lines,"Salt Lake City International Airport; Salt Lake City, United States",DL7829,738,Northwest,32,0.48
+1.24,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA9372,757,Northwest,32,0.34
+1.27,Spirit Airlines,"Dallas Fort Worth International Airport; Dallas-Fort Worth, United States",NK1592,319,Northwest,32,0.73
+1.29,United Airlines,"Zürich Airport; Zurich, Switzerland",UA8516,333,Northwest,32,0.34
+1.33,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K6733,CNA,Northwest,32,0.96
+1.4,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B64855,320,Northwest,32,0.66
+1.42,American Airlines,"John F Kennedy International Airport; New York, United States",AA7244,738,Northwest,32,0.07
+1.44,JetBlue Airways,"Southwest Florida International Airport; Fort Myers, United States",B64198,320,Northwest,32,0.09
+1.53,Copa Airlines,"Tocumen International Airport; Panama City, Panama",CM7314,73G,Northwest,32,0.22
+1.6,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN2645,73W,Northwest,32,0.14
+1.64,JetBlue Airways,"Orlando International Airport; Orlando, United States",B68084,E90,Northwest,32,0.81
+1.67,Cape Air,"Lebanon Municipal Airport; Lebanon, United States",9K6486,CNA,Northwest,32,0.3
+1.71,Alaska Airlines,"San Diego International Airport; San Diego, United States",AS3656,73H,Northwest,32,0.29
+1.73,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN9672,733,Northwest,32,0.54
+1.78,Sun Country Airlines,"Minneapolis-St Paul International/Wold-Chamberlain Airport; Minneapolis, United States",SY5418,73G,Northwest,32,0.05
+1.82,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN2258,717,Northwest,32,0.28
+1.84,JetBlue Airways,"Pittsburgh International Airport; Pittsburgh, United States",B66950,E90,Northwest,32,0.13
+1.96,SATA International,"João Paulo II Airport; Ponta Delgada, Portugal",S46202,313,Northwest,32,0.15
+2.02,Delta Air Lines,"Los Angeles International Airport; Los Angeles, United States",DL6163,73H,Northwest,32,2.3
+2.09,American Airlines,"Seattle Tacoma International Airport; Seattle, United States",AA3165,737,Northwest,32,0.06
+2.11,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI911,75W,Northwest,32,0.06
+2.13,Spirit Airlines,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",NK1655,319,Northwest,32,0.06
+2.16,American Airlines,"La Guardia Airport; New York, United States",AA2159,E90,Northwest,32,0.74
+2.27,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA2650,CRJ,Northwest,32,0.88
+2.38,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI6349,757,Northwest,32,1.12
+2.4,Japan Airlines Domestic,"Narita International Airport; Tokyo, Japan",JL1833,788,Northwest,32,0.34
+2.42,British Airways,"London Heathrow Airport; London, United Kingdom",BA5101,333,Northwest,32,0.18
+2.44,Delta Air Lines,"Myrtle Beach International Airport; Myrtle Beach, United States",DL5997,E75,Northwest,32,0.61
+2.55,United Airlines,"Denver International Airport; Denver, United States",UA8056,320,Northwest,32,0.41
+2.6,JetBlue Airways,"Dubai International Airport; Dubai, United Arab Emirates",B6962,77L,Northwest,32,0.68
+2.62,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA2763,319,Northwest,32,0.14
+2.73,Cape Air,"Rutland - Southern Vermont Regional Airport; Rutland, United States",9K230,CNA,Northwest,32,0.27
+2.78,JetBlue Airways,"Queen Beatrix International Airport; Oranjestad, Aruba",B64513,320,Northwest,32,0.47
+2.8,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI2604,75W,Northwest,32,0.8
+2.84,Air Canada,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",AC7728,CRJ,Northwest,32,0.04
+2.93,American Airlines,"Phoenix Sky Harbor International Airport; Phoenix, United States",AA9675,319,Northwest,32,0.55
+3.02,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN3925,717,Northwest,32,0.17
+3.09,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B62517,320,Northwest,32,0.13
+3.11,American Airlines,"Pittsburgh International Airport; Pittsburgh, United States",AA9413,E70,Northwest,32,0.31
+3.18,American Airlines,"Charlotte Douglas International Airport; Charlotte, United States",AA3686,319,Northwest,32,0.51
+3.2,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN5164,73C,Northwest,32,0.06
+3.22,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA8629,757,Northwest,32,0.14
+3.24,SATA International,"João Paulo II Airport; Ponta Delgada, Portugal",S45416,313,Northwest,32,0.44
+3.27,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX8318,333,Northwest,32,0.25
+3.29,JetBlue Airways,"Palm Beach International Airport; West Palm Beach, United States",B68354,E90,Northwest,32,0.18
+3.35,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN6123,73W,Northwest,32,0.66
+3.38,JetBlue Airways,"Austin Bergstrom International Airport; Austin, United States",B68806,E90,Northwest,32,0.02
+3.42,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN301,73W,Northwest,32,0.17
+3.51,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL3001,332,Northwest,32,1.25
+3.53,JetBlue Airways,"Jacksonville International Airport; Jacksonville, United States",B67727,E90,Northwest,32,0.54
+3.55,TAP Portugal,"Humberto Delgado Airport (Lisbon Portela Airport); Lisbon, Portugal",TP826,313,Northwest,32,1.51
+3.67,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA3721,320,Northwest,32,1.14
+3.69,American Airlines,"San Diego International Airport; San Diego, United States",AA2086,737,Northwest,32,0.32
+3.73,Spirit Airlines,"Fort Lauderdale Hollywood International Airport; Fort Lauderdale, United States",NK5899,319,Northwest,32,0.75
+3.75,Alaska Airlines,"San Francisco International Airport; San Francisco, United States",AS4649,320,Northwest,32,0.38
+3.78,Spirit Airlines,"Myrtle Beach International Airport; Myrtle Beach, United States",NK5658,319,Northwest,32,0.82
+3.82,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA9714,E90,Northwest,32,2.15
+3.91,Lufthansa Cargo,"Munich Airport; Munich, Germany",LH2065,333,Northwest,32,0.03
+3.93,JetBlue Airways,"McCarran International Airport; Las Vegas, United States",B67439,320,Northwest,32,0.08
+4.09,Cape Air,"Adirondack Regional Airport; Saranac Lake, United States",9K5356,CNA,Northwest,32,1.02
+4.11,Southwest Airlines,"Denver International Airport; Denver, United States",WN1187,73W,Northwest,32,0.77
+4.13,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN6215,73W,Northwest,32,0.15
+4.15,American Airlines,"Greater Rochester International Airport; Rochester, United States",AA9793,CRJ,Northwest,32,0.3
+4.2,United Airlines,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",UA2218,DH1,Northwest,32,0.11
+4.22,AeroMéxico,"Cancún International Airport; Cancun, Mexico",AM3748,757,Northwest,32,0.18
+4.33,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI817,75W,Northwest,32,0.52
+4.35,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B65044,E90,Northwest,32,0.01
+4.38,Southwest Airlines,"Kansas City International Airport; Kansas City, United States",WN9130,733,Northwest,32,0.17
+4.4,American Airlines,"Philadelphia International Airport; Philadelphia, United States",AA6846,319,Northwest,32,0.18
+4.42,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN3650,73W,Northwest,32,0.13
+4.44,JetBlue Airways,"Phoenix Sky Harbor International Airport; Phoenix, United States",B64583,320,Northwest,32,0.76
+4.47,JetBlue Airways,"Cancún International Airport; Cancun, Mexico",B61543,320,Northwest,32,0.25
+4.67,British Airways,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",BA8065,333,Northwest,32,0.64
+4.69,American Airlines,"John F Kennedy International Airport; New York, United States",AA2699,738,Northwest,32,0.45
+4.71,Southwest Airlines,"Denver International Airport; Denver, United States",WN6506,73W,Northwest,32,0.6
+4.73,Delta Air Lines,"Charleston Air Force Base-International Airport; Charleston, United States",DL4560,CR9,Northwest,32,0.1
+4.75,JetBlue Airways,"Denver International Airport; Denver, United States",B62608,320,Northwest,32,1.05
+4.8,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL703,767,Northwest,32,0.01
+4.87,Icelandair,"Keflavik International Airport; Keflavik, Iceland",FI545,75W,Northwest,32,0.54
+4.89,American Airlines,"San Diego International Airport; San Diego, United States",AA1311,737,Northwest,32,0.46
+4.95,Alitalia,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",AZ7504,332,Northwest,32,0.7
+5.0,Cape Air,"Rutland - Southern Vermont Regional Airport; Rutland, United States",9K3571,CNA,Northwest,32,0.44
+5.07,American Airlines,"Seattle Tacoma International Airport; Seattle, United States",AA3148,737,Northwest,32,0.27
+5.11,Air Canada,"Ottawa Macdonald-Cartier International Airport; Ottawa, Canada",AC8945,DH1,Northwest,32,0.15
+5.15,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL7440,E75,Northwest,32,0.3
+5.22,American Airlines,"Buffalo Niagara International Airport; Buffalo, United States",AA5142,CRJ,Northwest,32,0.16
+5.24,Air Canada,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",AC9238,DH3,Northwest,32,0.98
+5.29,Delta Air Lines,"Charleston Air Force Base-International Airport; Charleston, United States",DL2513,CR9,Northwest,32,0.01
+5.31,JetBlue Airways,"Seattle Tacoma International Airport; Seattle, United States",B68946,320,Northwest,32,0.1
+5.4,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN2369,73W,Northwest,32,0.12
+5.44,JetBlue Airways,"Charlotte Douglas International Airport; Charlotte, United States",B65637,E90,Northwest,32,0.86
+5.49,KLM Royal Dutch Airlines,"London Heathrow Airport; London, United Kingdom",KL4345,767,Northwest,32,0.44
+5.51,Finnair,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AY8080,333,Northwest,32,0.82
+5.53,Delta Air Lines,"Indianapolis International Airport; Indianapolis, United States",DL7314,E75,Northwest,32,1.89
+5.55,Emirates,"Dubai International Airport; Dubai, United Arab Emirates",EK7106,77L,Northwest,32,0.89
+5.6,Cape Air,"Augusta State Airport; Augusta, United States",9K1391,CNA,Northwest,32,0.52
+5.62,United Airlines,"Montreal / Pierre Elliott Trudeau International Airport; Montreal, Canada",UA9958,CRJ,Northwest,32,0.43
+5.64,American Airlines,"Miami International Airport; Miami, United States",AA7660,757,Northwest,32,0.89
+5.67,United Airlines,"San Francisco International Airport; San Francisco, United States",UA3761,753,Northwest,32,0.56
+5.69,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN568,73C,Northwest,32,0.07
+5.73,British Airways,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",BA6338,333,Northwest,32,0.57
+5.75,Finnair,"London Heathrow Airport; London, United Kingdom",AY1209,777,Northwest,32,0.18
+5.78,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN7511,73W,Northwest,32,0.97
+5.8,United Airlines,"Los Angeles International Airport; Los Angeles, United States",UA7848,739,Northwest,32,0.69
+5.82,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN8020,717,Northwest,32,0.4
+5.84,Delta Air Lines,"McCarran International Airport; Las Vegas, United States",DL9217,73H,Northwest,32,1.44
+5.87,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA5575,CRJ,Northwest,32,0.23
+5.89,United Airlines,"Chicago O'Hare International Airport; Chicago, United States",UA7592,73G,Northwest,32,0.39
+5.91,Southwest Airlines,"Baltimore/Washington International Thurgood Marshall Airport; Baltimore, United States",WN9899,733,Northwest,32,0.27
+5.93,TAP Portugal,"João Paulo II Airport; Ponta Delgada, Portugal",TP880,313,Northwest,32,0.66
+5.95,United Airlines,"Denver International Airport; Denver, United States",UA5608,738,Northwest,32,0.1
+6.0,Porter Airlines,"Billy Bishop Toronto City Centre Airport; Toronto, Canada",PD6342,DH4,Northwest,32,1.27
+6.34,Southwest Airlines,"Orlando International Airport; Orlando, United States",WN1195,717,Northwest,32,0.17
+6.45,Aer Lingus,"Shannon Airport; Shannon, Ireland",EI2269,757,Northwest,32,0.56
+6.66,Cape Air,"Nantucket Memorial Airport; Nantucket, United States",9K5034,CNA,Northwest,32,0.47
+6.77,Delta Air Lines,"John F Kennedy International Airport; New York, United States",DL3629,CR9,Northwest,32,0.38
+6.88,Southwest Airlines,"St Louis Lambert International Airport; St. Louis, United States",WN8823,73C,Northwest,32,0.07
+7.09,Lufthansa Cargo,"Frankfurt am Main Airport; Frankfurt, Germany",LH6295,346,Northwest,32,0.19
+7.52,American Airlines,"Cancún International Airport; Cancun, Mexico",AA4004,319,Northwest,32,0.07
+7.74,Cape Air,"Lebanon Municipal Airport; Lebanon, United States",9K4886,CNA,Northwest,32,0.54
+7.95,AeroMéxico,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AM2130,M88,Northwest,32,0.48
+8.06,Delta Air Lines,"Los Angeles International Airport; Los Angeles, United States",DL4061,73H,Northwest,32,1.33
+8.27,British Airways,"London Heathrow Airport; London, United Kingdom",BA6805,333,Northwest,32,0.85
+8.49,Southwest Airlines,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",WN2770,73W,Northwest,32,1.09
+8.59,JetBlue Airways,"Jacksonville International Airport; Jacksonville, United States",B65311,E90,Northwest,32,0.39
+8.81,JetBlue Airways,"Tampa International Airport; Tampa, United States",B65948,320,Northwest,32,0.52
+8.92,American Airlines,"Adolfo Suárez Madrid–Barajas Airport; Madrid, Spain",AA6459,330,Northwest,32,0.32
+9.24,Delta Air Lines,"John Glenn Columbus International Airport; Columbus, United States",DL1894,ERJ,Northwest,32,0.95
+9.34,United Airlines,"George Bush Intercontinental Houston Airport; Houston, United States",UA2046,752,Northwest,32,0.08
+9.45,JetBlue Airways,"Denver International Airport; Denver, United States",B63107,320,Northwest,32,0.04
+9.56,American Airlines,"Los Angeles International Airport; Los Angeles, United States",AA8109,757,Northwest,32,0.12
+9.67,Delta Air Lines,"Jacksonville International Airport; Jacksonville, United States",DL7492,CR9,Northwest,32,0.0
+10.31,Delta Air Lines,"Salt Lake City International Airport; Salt Lake City, United States",DL3522,738,Northwest,32,1.56
+10.42,JetBlue Airways,"Pittsburgh International Airport; Pittsburgh, United States",B66454,E90,Northwest,32,0.38
+10.52,Aer Lingus,"Dublin Airport; Dublin, Ireland",EI6993,330,Northwest,32,0.55
+10.95,JetBlue Airways,"Buffalo Niagara International Airport; Buffalo, United States",B69095,E90,Northwest,32,0.62
+11.06,Alaska Airlines,"Northern Maine Regional Airport at Presque Isle; Presque Isle, United States",AS9835,SF3,Northwest,32,0.12
+11.38,American Airlines,"Harrisburg International Airport; Harrisburg, United States",AA5867,DH3,Northwest,32,0.27
+11.7,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN5300,733,Northwest,32,1.41
+12.03,Cape Air,"Augusta State Airport; Augusta, United States",9K6344,CNA,Northwest,32,1.36
+12.34,Swiss International Air Lines,"Zürich Airport; Zurich, Switzerland",LX5888,333,Northwest,32,0.07
+12.49,British Airways,"London Heathrow Airport; London, United Kingdom",BA1813,744,Northwest,32,1.54
+12.65,JetBlue Airways,"Philadelphia International Airport; Philadelphia, United States",B62541,E90,Northwest,32,0.69
+12.81,Cape Air,"Albany International Airport; Albany, United States",9K1611,CNA,Northwest,32,0.84
+13.59,Aer Lingus,"Dublin Airport; Dublin, Ireland",EI7055,330,Northwest,32,0.08
+14.21,United Airlines,"Tocumen International Airport; Panama City, Panama",UA5325,73G,Northwest,32,0.22
+14.37,Delta Air Lines,"Detroit Metropolitan Wayne County Airport; Detroit, United States",DL9571,M90,Northwest,32,0.32
+14.84,JetBlue Airways,"Providenciales Airport; Providenciales, Turks and Caicos Islands",B63794,320,Northwest,32,2.04
+14.99,American Airlines,"Narita International Airport; Tokyo, Japan",AA1456,787,Northwest,32,0.43
+15.3,United Airlines,"Halifax / Stanfield International Airport; Halifax, Canada",UA9139,CRJ,Northwest,32,0.29
+15.46,AeroMéxico,"Hartsfield Jackson Atlanta International Airport; Atlanta, United States",AM5784,M90,Northwest,32,1.12
+16.24,American Airlines,"Cancún International Airport; Cancun, Mexico",AA8681,319,Northwest,32,0.04
+16.4,Delta Air Lines,"Jacksonville International Airport; Jacksonville, United States",DL6547,CR9,Northwest,32,0.21
+16.55,American Airlines,"Cancún International Airport; Cancun, Mexico",AA5529,319,Northwest,32,0.07
+16.86,American Airlines,"Miami International Airport; Miami, United States",AA745,738,Northwest,32,0.81
+17.8,Southwest Airlines,"General Mitchell International Airport; Milwaukee, United States",WN4998,733,Northwest,32,0.2
+17.96,Delta Air Lines,"Leonardo da Vinci–Fiumicino Airport; Rome, Italy",DL3014,330,Northwest,32,0.28
+18.11,American Airlines,"La Guardia Airport; New York, United States",AA6434,E90,Northwest,32,0.57
+18.23,KLM Royal Dutch Airlines,"Amsterdam Airport Schiphol; Amsterdam, Netherlands",KL6251,330,Northwest,32,0.7
+18.34,United Airlines,"Lester B. Pearson International Airport; Toronto, Canada",UA3201,E90,Northwest,32,0.87
+18.46,American Airlines,"Portland International Airport; Portland, United States",AA6306,737,Northwest,32,0.17
+18.58,Porter Airlines,"Billy Bishop Toronto City Centre Airport; Toronto, Canada",PD7005,DH4,Northwest,32,0.63
+19.04,Delta Air Lines,"Salt Lake City International Airport; Salt Lake City, United States",DL7852,320,Northwest,32,0.12
+19.27,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS5581,319,Northwest,32,1.84
+19.38,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA6196,319,Northwest,32,0.11
+19.5,Alaska Airlines,"Los Angeles International Airport; Los Angeles, United States",AS9339,320,Northwest,32,0.53
+19.96,JetBlue Airways,"Punta Cana International Airport; Punta Cana, Dominican Republic",B65058,320,Northwest,32,0.78
+20.19,Air France,"London Heathrow Airport; London, United Kingdom",AF2494,764,Northwest,32,0.44
+20.31,JetBlue Airways,"Pittsburgh International Airport; Pittsburgh, United States",B6947,E90,Northwest,32,0.23
+20.42,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN8699,73C,Northwest,32,0.06
+20.54,American Airlines,"Ronald Reagan Washington National Airport; Washington, United States",AA6397,319,Northwest,32,1.67
+20.77,American Airlines,"Portland International Airport; Portland, United States",AA8223,737,Northwest,32,0.52
+20.89,Peninsula Airways,"Plattsburgh International Airport; Plattsburgh, United States",KS9688,SF3,Northwest,32,0.1
+21.35,JetBlue Airways,"Richmond International Airport; Richmond, United States",B68488,E90,Northwest,32,0.13
+21.81,Air Canada,"Halifax / Stanfield International Airport; Halifax, Canada",AC2085,CRJ,Northwest,32,0.21
+22.04,Aer Lingus,"Dublin Airport; Dublin, Ireland",EI624,332,Northwest,32,0.04
+22.97,Southwest Airlines,"Nashville International Airport; Nashville, United States",WN769,73W,Northwest,32,0.51
+23.08,American Airlines,"Portland International Airport; Portland, United States",AA3175,737,Northwest,32,1.26
+23.2,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN7035,73W,Northwest,32,1.95
+23.43,Southwest Airlines,"Chicago Midway International Airport; Chicago, United States",WN6861,73W,Northwest,32,0.94
+23.66,Southwest Airlines,"Akron Canton Regional Airport; Akron, United States",WN9004,717,Northwest,32,0.26
+23.89,American Airlines,"Richmond International Airport; Richmond, United States",AA4625,CRJ,Northwest,32,1.07

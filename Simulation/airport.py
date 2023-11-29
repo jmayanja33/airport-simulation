@@ -12,7 +12,7 @@ Assumptions:
     - Taxi and Gate issues are not being considered. The focus of this project is on getting planes on and off of
     the ground efficiently.
     - All non-jet aircraft will take off and land only on non-jet specific runways if presented the opportunity
-    - All landings are successful (no go-arounds)
+    - ATC will guide all planes to successful takeoffs/landings (no collissions)
 
 Scenarios to be Tested:
     - Control: leave all data as is
@@ -234,11 +234,11 @@ class Airport(object):
         print("Saving departure data to file")
         departing_df = pd.DataFrame(data=self.wait_times, columns=["Time", "Airline", "Destination", "Flight Number",
                                                                    "Aircraft Type", "Wind", "Runway", "Wait Time"])
-        departing_df.to_csv("../Data/departure_results.csv", index=False)
+        departing_df.to_csv("../Data/departure_results_control.csv", index=False)
 
         # Save arrival data
         print("Saving arrival data to file")
         arrival_df = pd.DataFrame(data=self.circle_times, columns=["Time", "Airline", "Destination", "Flight Number",
                                                                    "Aircraft Type", "Wind", "Runway", "Circle Time"])
-        arrival_df.to_csv("../Data/arrival_results.csv", index=False)
+        arrival_df.to_csv("../Data/arrival_results_control.csv", index=False)
 

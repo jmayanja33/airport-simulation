@@ -1,5 +1,6 @@
 import os
 import simpy
+import random
 
 
 class Runway(object):
@@ -29,7 +30,7 @@ class Runway(object):
             # Wait for runway to be free
             yield request
             # Take off
-            yield self.env.timeout(float(os.getenv("MU_TAKEOFF")))
+            yield self.env.timeout(random.expovariate(float(os.getenv("MU_TAKEOFF"))))
             wait_time = round(self.env.now - start_time, 2)
             print(f"{plane.airline} flight {plane.flight_number} to {plane.route} landed at runway: {self.name} after waiting {wait_time} minutes")
             self.resource.release(request)
@@ -50,7 +51,7 @@ class Runway(object):
             # Wait for runway to be free
             yield request
             # Land
-            yield self.env.timeout(float(os.getenv("MU_LANDING")))
+            yield self.env.timeout(random.expovariate(float(os.getenv("MU_LANDING"))))
             wait_time = round(self.env.now - start_time, 2)
             print(f"{plane.airline} flight {plane.flight_number} from {plane.route} landed at runway: {self.name} after waiting {wait_time} minutes")
             self.resource.release(request)
