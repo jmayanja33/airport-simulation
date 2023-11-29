@@ -1,7 +1,7 @@
 import os
 from Simulation.airport import Airport
 import simpy
-import random
+import time
 
 
 # Generate random seeds
@@ -32,7 +32,19 @@ def simulate_airport(airport, env):
 
 # Run simulation
 if __name__ == '__main__':
+    start_time = time.time()
+
+    # Create environment
     env = simpy.Environment()
-    logan_airport = Airport(env)
+
+    # Create airport object (only have one object uncommented)
+    logan_airport = Airport(env, "control")
+    # logan_airport = Airport(env, "one_runway_down")
+    # logan_airport = Airport(env, "two_runways_down")
+    # logan_airport = Airport(env, "extra_runway")
+    # logan_airport = Airport(env, "extra_runway_with_two_down")
+
+    # Run simulation
     simulate_airport(logan_airport, env)
     logan_airport.save_simulation_data()
+    print(f"Finished! Time to complete simultation: {time.time() - start_time} seconds")
