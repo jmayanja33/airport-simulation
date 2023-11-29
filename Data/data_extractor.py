@@ -224,12 +224,14 @@ class DataExtractor:
             "Northwest": {
                 "Departures": {
                     "33L": {"Non Jet": False},
-                    "27": {"Non Jet": False}
+                    "27": {"Non Jet": False},
+                    "99": {"Non Jet": True}
                 },
                 "Arrivals": {
                     "33L": {"Non Jet": False},
                     "27": {"Non Jet": False},
-                    "32": {"Non Jet": False}
+                    "32": {"Non Jet": False},
+                    "99": {"Non Jet": True}
                 }
             },
             "Southeast": {
@@ -252,7 +254,8 @@ class DataExtractor:
                 "Arrivals": {
                     "22L": {"Non Jet": False},
                     "27": {"Non Jet": False},
-                    "22R": {"Non Jet": True}
+                    "22R": {"Non Jet": True},
+                    "99": {"Non Jet": True}
                 }
             }
         }

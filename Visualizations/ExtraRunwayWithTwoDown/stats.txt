@@ -1,0 +1,12 @@
+Departures:
+
+- Total Departures: 6404 flights
+- Max Departure Wait Time: 6.98 minutes
+- Avg. Departure Wait Time: 0.7041193004372268 minutes
+  
+Arrivals:
+      
+- Total Arrivals: 6492 flights
+- Max Arrival Wait Time: 4.07 minutes
+- Avg. Arrival Wait Time: 0.5136491065927296 minutes
+        

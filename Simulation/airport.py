@@ -30,6 +30,7 @@ import pandas as pd
 import simpy
 import random
 import statistics
+import json
 import os
 import numpy as np
 from dotenv import load_dotenv
@@ -51,11 +52,12 @@ def find_wind_direction():
 
 class Airport(object):
 
-    def __init__(self, env):
+    def __init__(self, env, simulation_type):
         load_dotenv()
 
         self.env = env
-        random_seed = None
+        self.simulation_type = simulation_type
+        self.ignore_runways = set(json.loads(os.environ['EXCLUDE_RUNWAYS']))
         self.wait_times = []
         self.circle_times = []
         self.wind_direction = find_wind_direction()
@@ -74,32 +76,34 @@ class Airport(object):
 
         # Initialize departure runways
         for runway in departure_runways.keys():
-            if departure_runways[runway]["Non Jet"]:
-                runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
-                                                departure=True, arrival=False, non_jet_departure=True)
-            else:
-                runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
-                                                departure=True, arrival=False)
+            if runway not in self.ignore_runways:
+                if departure_runways[runway]["Non Jet"]:
+                    runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
+                                                    departure=True, arrival=False, non_jet_departure=True)
+                else:
+                    runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
+                                                    departure=True, arrival=False)
 
         # Initialize arrival runways
         for runway in arrival_runways.keys():
-            # Non jet runways
-            if arrival_runways[runway]["Non Jet"]:
-                # If runway has already been initialized
-                if runway in runways_in_use.keys():
-                    runways_in_use[runway].arrival = True
-                    runways_in_use[runway].non_jet_arrival = True
+            if runway not in self.ignore_runways:
+                # Non jet runways
+                if arrival_runways[runway]["Non Jet"]:
+                    # If runway has already been initialized
+                    if runway in runways_in_use.keys():
+                        runways_in_use[runway].arrival = True
+                        runways_in_use[runway].non_jet_arrival = True
+                    else:
+                        runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
+                                                        departure=False, arrival=True, non_jet_arrival=True)
+                # All aircraft runways
                 else:
-                    runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
-                                                    departure=False, arrival=True, non_jet_arrival=True)
-            # All aircraft runways
-            else:
-                # If runway has already been initialized
-                if runway in runways_in_use.keys():
-                    runways_in_use[runway].arrival = True
-                else:
-                    runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
-                                                    departure=False, arrival=True)
+                    # If runway has already been initialized
+                    if runway in runways_in_use.keys():
+                        runways_in_use[runway].arrival = True
+                    else:
+                        runways_in_use[runway] = Runway(self.env, runway, self.wait_times, self.circle_times,
+                                                        departure=False, arrival=True)
 
         return runways_in_use
 
@@ -234,11 +238,11 @@ class Airport(object):
         print("Saving departure data to file")
         departing_df = pd.DataFrame(data=self.wait_times, columns=["Time", "Airline", "Destination", "Flight Number",
                                                                    "Aircraft Type", "Wind", "Runway", "Wait Time"])
-        departing_df.to_csv("../Data/departure_results_control.csv", index=False)
+        departing_df.to_csv(f"../Data/departure_results_{self.simulation_type}.csv", index=False)
 
         # Save arrival data
         print("Saving arrival data to file")
         arrival_df = pd.DataFrame(data=self.circle_times, columns=["Time", "Airline", "Destination", "Flight Number",
                                                                    "Aircraft Type", "Wind", "Runway", "Circle Time"])
-        arrival_df.to_csv("../Data/arrival_results_control.csv", index=False)
+        arrival_df.to_csv(f"../Data/arrival_results_{self.simulation_type}.csv", index=False)
 
