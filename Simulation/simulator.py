@@ -38,11 +38,11 @@ if __name__ == '__main__':
     env = simpy.Environment()
 
     # Create airport object (only have one object uncommented)
-    logan_airport = Airport(env, "control")
+    # logan_airport = Airport(env, "control")
     # logan_airport = Airport(env, "one_runway_down")
     # logan_airport = Airport(env, "two_runways_down")
     # logan_airport = Airport(env, "extra_runway")
-    # logan_airport = Airport(env, "extra_runway_with_two_down")
+    logan_airport = Airport(env, "extra_runway_with_two_down")
 
     # Run simulation
     simulate_airport(logan_airport, env)

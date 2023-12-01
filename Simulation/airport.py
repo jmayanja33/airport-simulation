@@ -3,8 +3,9 @@ Class to simulate a week's worth of flights at Logan airport.
 
 Goals:
     - The goal of this project is to gain a better understanding of how plane traffic builds up around the runways at
-    Logan Airport in Boston. Using this simulation model, we can hopefully test different scenarios that will minimize
-    the wait time for planes taking off, and minimize the time circling the airport for arriving aircraft.
+    Logan Airport in Boston, and how well the airport can adapt to issues on runways. Using this simulation model,
+    we can hopefully test different scenarios that will minimize the wait time for planes taking off, and minimize the
+    time circling the airport for arriving aircraft.
 
 Assumptions:
     - Weather is constant and ideal
@@ -12,13 +13,14 @@ Assumptions:
     - Taxi and Gate issues are not being considered. The focus of this project is on getting planes on and off of
     the ground efficiently.
     - All non-jet aircraft will take off and land only on non-jet specific runways if presented the opportunity
-    - ATC will guide all planes to successful takeoffs/landings (no collissions)
+    - ATC will guide all planes to successful takeoffs/landings (no collisions)
 
 Scenarios to be Tested:
     - Control: leave all data as is
-    - Filtering runways by plane type: assign certain plane types to take off/land on certain runways
-    - Filtering runways by airline: assign certain airlines to take off/land on certain runways
-    - Adding a new runway
+    - Remove busiest runway
+    - Remove top 2 busiest runways
+    - Add a new runway
+    - Add a new runway and remove 2 busiest runways
 
 Process:
     - Departures leave gate/Arrivals begin approach (both randomly)
@@ -187,15 +189,11 @@ class Airport(object):
 
     def takeoff_from_airport(self, plane):
         """Function to simulate a departing plane"""
-        # Takeoff
-        arrive_at_runway_time = self.env.now
         runway = self.runways[self.select_runway(plane)]
         self.env.process(runway.take_off(plane, self.wind_direction))
 
     def land_at_airport(self, plane):
         """Function to simulate a landing plane"""
-        # Land
-        begin_approach_time = self.env.now
         runway = self.runways[self.select_runway(plane)]
         self.env.process(runway.land(plane, self.wind_direction))
 
@@ -209,12 +207,7 @@ class Airport(object):
 
             time_of_day = self.env.now
 
-            # Change wind direction every 12 hours
-            # if not change_wind and time_of_day >= 12*60:
-            #     self.reset_wind()
-            #     self.reset_runways()
-            #     change_wind = True
-
+            # Change random arrival rate based on time of day
             if time_of_day < 6*60:
                 yield self.env.timeout(float(os.getenv("LAMBDA_NIGHT")))
             elif time_of_day < 12*60:
@@ -224,8 +217,10 @@ class Airport(object):
             else:
                 yield self.env.timeout(float(os.getenv("LAMBDA_EVENING")))
 
+            # Generate plane
             plane = Plane(self.env.now)
 
+            # Make plane takeoff or land
             if plane.departing:
                 self.takeoff_from_airport(plane)
             else:

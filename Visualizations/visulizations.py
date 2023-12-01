@@ -87,7 +87,7 @@ def find_and_plot_mean_runway_counts(simulation_type, departure_df, arrival_df):
     plt.figure(figsize=(6, 4))
     plt.bar(plot_df["Runway"], plot_df["Departure Mean"], label="Departures")
     plt.bar(plot_df["Runway"], plot_df["Arrival Mean"], label="Arrivals")
-    plt.title(f"Avg. Daily Runway Utilization (Normal Runways)")
+    plt.title(f"Avg. Daily Runway Utilization")
     plt.xlabel("Runway")
     plt.ylabel("Avg. Number of Flights")
     plt.legend()
