@@ -2,6 +2,9 @@ import os
 from Simulation.airport import Airport
 import simpy
 import time
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 # Generate random seeds
@@ -11,7 +14,7 @@ random_seeds = [i for i in range(30, 37)]
 def simulate_airport(airport, env):
     """Function to simulate a week of departures/landings at an airport"""
 
-    # Iterate over the course of 8 days
+    # Iterate over the course of 31 days
     for i in range(0, int(os.getenv("NUM_REPLICATIONS"))):
         print(f"Beginning Day: {i}")
         if i > 0:
@@ -37,12 +40,12 @@ if __name__ == '__main__':
     # Create environment
     env = simpy.Environment()
 
-    # Create airport object (only have one object uncommented)
-    # logan_airport = Airport(env, "control")
+    # Create airport object (only have one object uncommented per run)
+    logan_airport = Airport(env, "control")
     # logan_airport = Airport(env, "one_runway_down")
     # logan_airport = Airport(env, "two_runways_down")
     # logan_airport = Airport(env, "extra_runway")
-    logan_airport = Airport(env, "extra_runway_with_two_down")
+    # logan_airport = Airport(env, "extra_runway_with_two_down")
 
     # Run simulation
     simulate_airport(logan_airport, env)

@@ -69,7 +69,6 @@ def choose_aircraft(departing, airline_code, route):
         aircraft_probabilities = [probabilities["Arrivals"][airline_code]["Routes"][route]['Aircrafts'][i]["Probability"] \
                                   for i in probabilities["Arrivals"][airline_code]["Routes"][route]['Aircrafts'].keys()]
 
-
     aircraft = np.random.choice(aircrafts, p=aircraft_probabilities)
 
     if aircraft in non_jet:
@@ -103,7 +102,14 @@ class Plane:
         # Load env file
         load_dotenv()
 
+        # Randomly choose if the plane is departing or arriving
         self.departing = determine_departing(time_of_day)
+
+        # Randomly choose the plane's airline based off of its departure status
         self.airline, self.flight_number, airline_code = choose_airline(self.departing)
+
+        # Randomly choose the route the plane is flying based off its departure status and airline
         route_code, self.route = choose_route(self.departing, airline_code)
+
+        # Randomly choose the plane's model based off its departure status, airline, and route
         self.aircraft_type, self.jet = choose_aircraft(self.departing, airline_code, route_code)

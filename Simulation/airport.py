@@ -200,8 +200,6 @@ class Airport(object):
     def simulate(self):
         """Function to simulate landing and departing at the airport"""
 
-        # change_wind = False
-
         # Loop which executes until no planes are left in line
         while True:
 
